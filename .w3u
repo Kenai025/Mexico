@@ -3,7 +3,7 @@
 "author": "Mexico - p.a.c.o",
 "stations": [
 
-{"name":"AZTECA UNO","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtiJI7zTK-PPna7r4jUcwcCgjaTbU4BbqMDw&usqp=CAU",
+{"name":"AZTECA UNO -1 HORA","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtiJI7zTK-PPna7r4jUcwcCgjaTbU4BbqMDw&usqp=CAU",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/59496"},
 
 {"name":"AZTECA 7","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtiJI7zTK-PPna7r4jUcwcCgjaTbU4BbqMDw&usqp=CAU",
@@ -29,6 +29,12 @@
 
 {"name":"CANAL NUEVE","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtiJI7zTK-PPna7r4jUcwcCgjaTbU4BbqMDw&usqp=CAU",
 "url":"http://fivetv.org:25461/maria8947/beltran8950/186820"},
+
+{"name":"AAZTECA UNO","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtiJI7zTK-PPna7r4jUcwcCgjaTbU4BbqMDw&usqp=CAU",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/186817"},
+
+{"name":"AAZTECA 7 OP2","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtiJI7zTK-PPna7r4jUcwcCgjaTbU4BbqMDw&usqp=CAU",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/186812"},
 
 {"name":"FORO TV","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtiJI7zTK-PPna7r4jUcwcCgjaTbU4BbqMDw&usqp=CAU",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/59501"}]}]}]}
