@@ -7,13 +7,13 @@
 "image": "https://www.trecebits.com/wp-content/uploads/2024/02/logo-tdt-television.webp", 
 "stations": [
 
-{"name":"AZTECA UNO -1 HORA","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtiJI7zTK-PPna7r4jUcwcCgjaTbU4BbqMDw&usqp=CAU",
+{"name":"AZTECA UNO -1 HORA","image":"https://cdn.mitvstatic.com/channels/mx_azteca-1_m.png",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/59496"},
 
 {"name":"AZTECA 7","image":"https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/59499"},
 
-{"name":"LAS ESTRELLAS","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtiJI7zTK-PPna7r4jUcwcCgjaTbU4BbqMDw&usqp=CAU",
+{"name":"LAS ESTRELLAS","image":"https://i.imgur.com/EHrkCCY.png ",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/59502"},
 
 {"name":"CANAL 5","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtiJI7zTK-PPna7r4jUcwcCgjaTbU4BbqMDw&usqp=CAU",
@@ -180,7 +180,7 @@
 {"name": "UNIVERSAL SD MX", "image": "https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg",
 "url": "http://fastream.xyz:8080/936828595tv/c173z0o/59480"},
 
-{"name":"CINECANAL MX","image":"https://e7.pngegg.com/pngimages/132/358/png-clipart-wedding-invitation-outdoor-cinema-film-others-label-text-thumbnail.png",
+{"name":"CINECANAL MX","image":"https://i.ibb.co/S0h94pk/CINECANAL.jpg   ",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/112"}]}]}]}
 
 
