@@ -49,6 +49,200 @@
 {"name":"FORO TV","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo-ForoTV-2020.png/600px-Logo-ForoTV-2020.png",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/59501"}]},
 
+{"name": "CULTURA",
+"image":"https://yourclubox.com/box/Logos/img1.png",
+"author": "Mexico - p.a.c.o",
+"stations": [
+
+{"name":"DISCOVERY CHANNEL", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOPay56OP5GbaO1AbuoKxbU36lNbK-7F53gTzONOi3A&s", 
+"url":"http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/60.ts"},
+
+{"name":"ANIMAL PLANET", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOPay56OP5GbaO1AbuoKxbU36lNbK-7F53gTzONOi3A&s", 
+"url":"http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/61.ts"},
+
+{"name":"DISCOVERY CHANNEL MX","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJTGeTNVeScSTVGmEvGpu5l2fSJjePiv8neFFjcJrq8w&s",
+"url":"http://fastream.xyz:8080/936828595tv/c173z0o/59530"},
+
+{"name":"DISCOVERY TURBO MX","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJTGeTNVeScSTVGmEvGpu5l2fSJjePiv8neFFjcJrq8w&s",
+"url":"http://fastream.xyz:8080/936828595tv/c173z0o/54494"},
+
+{"name":"NATGEO MX","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo-ForoTV-2020.png/600px-Logo-ForoTV-2020.png",
+"url":"http://fastream.xyz:8080/936828595tv/c173z0o/59402"}]},
+
+{"name": "MÉXICO DEPORTES",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMrolwfypxQd0lXs7Nx-kVfN9Ee18C0EbbrzdxAboDyQ&s", 
+"stations": [
+
+{"name":"ESPN 1 MX","image":"https://i.postimg.cc/KvFR3FLr/espn.png",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/92589"},
+
+{"name":"ESPN 2 MX","image":"https://i.postimg.cc/v82q167s/ESPN2.png",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/92595"},
+
+{"name":"ESPN 3 MX","image":"https://i.postimg.cc/y8DMj3Cm/espn3.png",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/92600"},
+
+{"name":"ESPN 4 MX","image":"https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/92601"},
+
+{"name":"ESPN DEPORTES MX","image":"https://tinyurl.com/yxmz8v2v.png",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/92602"},
+
+{"name":"ESPN EXTRA MX","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJTGeTNVeScSTVGmEvGpu5l2fSJjePiv8neFFjcJrq8w&s",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/92604"},
+
+{"name":"FOX SPORT 1 MX","image":"https://i.postimg.cc/W1hpgyH4/fox1.png",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/92613"},
+
+{"name":"FOX SPORT 2 MX","image":"https://i.postimg.cc/d01285jt/fox2.png",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/92617"},
+
+{"name":"FOX SPORT 3 MX","image":"https://i.postimg.cc/bv5qJvvN/fox3.png",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/92620"},
+
+{"name":"FOX DEPORTES MX","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJTGeTNVeScSTVGmEvGpu5l2fSJjePiv8neFFjcJrq8w&s",
+"url":"http://fastream.xyz:8080/936828595tv/c173z0o/24030"},
+
+{"name":"TUDN MX","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJTGeTNVeScSTVGmEvGpu5l2fSJjePiv8neFFjcJrq8w&s",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/92643"}]},
+
+{"name": "MÉXICO CINE & SERIES",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGeff5YnuBi74wo5GfXY87UfNN7g6b0yDVcw&usqp=CAU", 
+"stations": [
+
+{"name":"A&E MX","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR2qP7YGQzB9UMyx0aLqT_rNc5GUfgOM0-tJSNMEWg1-uZHL7Ktmvf4QWH&s=10",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/186462"},
+
+{"name":"AMC MX","image":"https://i.ibb.co/m8Txm1X/AMCHD.jpg ",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/186463"},
+
+{"name":"AXN MX","image":"https://i.ibb.co/NZ66vJS/AXNHD.jpg",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/186464"},
+
+{"name":"FX SD MX","image":"https://i.ibb.co/hs5pPQB/FXHD.jpg ",
+"url":"http://fastream.xyz:8080/936828595tv/c173z0o/59395"},
+
+{"name":"SPACE SD MX","image":"https://i.ibb.co/VmrGxxp/SPACE.jpg ",
+"url":"http://fastream.xyz:8080/936828595tv/c173z0o/59425"},
+
+{"name":"CINEMAX SD MX","image":"https://i.ibb.co/xjsQJ2P/CINEMAX.jpg ",
+"url":"http://canal-pro.xyz:8080/73177492/13012022/177"},
+
+{"name":"TNT SERIES SD MX","image":"https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg",
+"url":"http://fastream.xyz:8080/936828595tv/c173z0o/59457"},
+
+{"name":"WARNER SD MX","image":"https://i.ibb.co/vJrZD2P/WARNERCHANNEL.jpg  ",
+"url":"http://fastream.xyz:8080/936828595tv/c173z0o/59482"},
+
+{"name":"GOLDEN MX","image":"https://i.ibb.co/TP1rVyx/GOLDEN.jpg",
+"url":"http://canal-pro.xyz:8080/73177492/13012022/127"},
+
+{"name":"GOLDEN EDGE MX","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTI2f9I29YNZiVst2MUniGRKkjMYo8b6N7oqxCs85m8dEbFrI9oPJm1No&s=10 ",
+"url":"http://canal-pro.xyz:8080/73177492/13012022/65218"},
+
+{"name":"GOLDEN PLUS MX","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqpiqEWw1ikY5W1wzBCvHJSgnAwmseFpKyNoOFFOdKNCFwPa_xmfbfeGSd&s=10 ",
+"url":"http://canal-pro.xyz:8080/73177492/13012022/65219"},
+
+{"name":"GOLDEN PREMIER MX","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV5b5MVtUBGVZtLB0XWd5_-Kvygos_nolvEwzHGzOezl_1hDiAuWjzBPZj&s=10 ",
+"url":"http://canal-pro.xyz:8080/73177492/13012022/65223"},
+
+{"name":"HBO MX","image":"https://i.ibb.co/h1QwfKd/HBO.jpg ",
+"url":"http://canal-pro.xyz:8080/73177492/13012022/139"},
+
+{"name":"HBO 2 MX","image":"https://i.ibb.co/0XZg6R7/HBO2.jpg ",
+"url":"http://canal-pro.xyz:8080/73177492/13012022/131"},
+
+{"name":"HBO MUNDI MX","image":"https://i.ibb.co/Hg50ZZ4/HBOMUNDI.jpg ",
+"url":"http://canal-pro.xyz:8080/73177492/13012022/142"},
+
+{"name":"HBO PLUS MX","image":"https://i.ibb.co/42KnfJN/HBOPLUS.jpg",
+"url":"http://canal-pro.xyz:8080/73177492/13012022/144"},
+
+{"name":"HBO POP MX","image":"https://i.ibb.co/VQLsWDt/HBOPOP.jpg",
+"url":"http://canal-pro.xyz:8080/73177492/13012022/147"},
+
+{"name":"HBO SIGNATURE MX","image":"https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",
+"url":"http://canal-pro.xyz:8080/73177492/13012022/151"},
+
+{"name":"HBO XTREME MX","image":"https://i.ibb.co/K2y2KxG/HBOXTREME.jpg",
+"url":"http://canal-pro.xyz:8080/73177492/13012022/156"},
+
+{"name":"TNT MX","image":"https://i.ibb.co/0q21c8Q/TNT.jpg",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/186477"},
+
+{"name":"STUDIO UNIVERSAL MX","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtC8w1c9rQCVkCSGe9bL_ZoMSyk5Qcq-UQjNlRmX3SQF04yOPnZaInwzX3&s=10 ",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/186488"},
+
+{"name":"STAR CHANNEL MX","image":"https://i.ibb.co/WyL4txb/STARCHANEL.jpg",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/186489"},
+
+{"name":"DE PELICULA PLUS","image":"https://i.ibb.co/y07LGs1/DEPELICULA.jpg    ",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/189810"},
+
+{"name": "UNIVERSAL SD MX","image": "https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg",
+"url": "http://fastream.xyz:8080/936828595tv/c173z0o/59480"},
+
+{"name":"UNIVERSAL CINEMA MX","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7QFdK-Hutj_g-WwazGZ28GmPzMibFiTp5LNGHs_zPw7jHnqJ5lSaQj8M&s=10",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/186485"},
+
+{"name":"UNIVERSAL PREMIER MX","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHTEQEKsp9oe7lGay4rcdZq44-aVtJWTvgD5wKSXmP2hsG-8vlXXwqvQmg&s=10",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/186486"},
+
+{"name":"UNIVERSAL COMEDY MX","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTTSdnHJSM5brk6OnAzpQPPJfBbkxyBcOgk152A0KoK5SyUJIyK85GJPvh&s=10",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/186484"},
+
+{"name":"CINECANAL MX","image":"https://i.ibb.co/S0h94pk/CINECANAL.jpg",
+"url":"http://canal-pro.xyz:8080/73177492/13012022/112"}]}]}]}{"name": "REPLEY TV",
+"image":"https://yourclubox.com/box/Logos/img1.png",
+"author": "Mexico - p.a.c.o",
+"groups": [
+
+{"name": "MÉXICO TDT",
+"image": "https://www.trecebits.com/wp-content/uploads/2024/02/logo-tdt-television.webp", 
+"stations": [
+
+{"name":"AZTECA UNO -1 HORA","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO-y2uc8dASOZeGEsQL7JbI3iQ4yTP_uaQRk4R5NfhENpI0kbmefl7hS0&s=10",
+"url":"http://canal-pro.xyz:8080/73177492/13012022/59496"},
+
+{"name":"AZTECA 7","image":"https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png",
+"url":"http://canal-pro.xyz:8080/73177492/13012022/59499"},
+
+{"name":"LAS ESTRELLAS","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Canal_de_las_Estrellas_logo.svg/1200px-Canal_de_las_Estrellas_logo.svg.png",
+"url":"http://canal-pro.xyz:8080/73177492/13012022/59502"},
+
+{"name":"CANAL 5","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZq4TvwEszIux8o5WiN-wBD7A7grtu73Ulzg&usqp=CAU", 
+"url":"http://canal-pro.xyz:8080/73177492/13012022/59500"},
+
+{"name":"ADN40","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQLpaYsGCkxzWIuBqJSVHRy1_Ioul2xaD7SvyvyZGWjndfCxZuXKYXTLQ&s=10 ",
+"url":"http://canal-pro.xyz:8080/73177492/13012022/59493"},
+
+{"name":"A MAS","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDkZq5hXqcN-2Io53czUonaDbG76AAf5UXw&usqp=CAU",
+"url":"http://canal-pro.xyz:8080/73177492/13012022/59466"},
+
+{"name":"CANAL ONCE","image":"https://www.contrareplica.mx/uploads/normal/fd04fbe0e16b3367fe090d478651b663.jpg",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/186813"},
+
+{"name":"IMAGEN TV","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLAIjbviJ4bU-iD_WhabSEnfzZrz5L2ENGBAfJSjTxI8o7ePFzQzYv16M&s=10",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/186819"},
+
+{"name":"CANAL NUEVE","image":"https://www.pandaancha.mx/plds/articulos/froala/canal9logo-168x168-409953538.png",
+"url":"http://fastream.xyz:8080/936828595tv/c173z0o/59498"},
+
+{"name":"AZTECA UNO","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO-y2uc8dASOZeGEsQL7JbI3iQ4yTP_uaQRk4R5NfhENpI0kbmefl7hS0&s=10",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/186817"},
+
+{"name":"AZTECA 7 OP2","image":"https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/186811"},
+
+{"name":"LAS ESTRELLAS OP2","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Canal_de_las_Estrellas_logo.svg/1200px-Canal_de_las_Estrellas_logo.svg.png",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/186434"},
+
+{"name":"CANAL 5 OP2","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZq4TvwEszIux8o5WiN-wBD7A7grtu73Ulzg&usqp=CAU",
+"url":"http://fivetv.org:25461/maria8947/beltran8950/186810"},
+
+{"name":"FORO TV","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo-ForoTV-2020.png/600px-Logo-ForoTV-2020.png",
+"url":"http://canal-pro.xyz:8080/73177492/13012022/59501"}]},
+
 {"name": "MÉXICO DEPORTES",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMrolwfypxQd0lXs7Nx-kVfN9Ee18C0EbbrzdxAboDyQ&s", 
 "stations": [
