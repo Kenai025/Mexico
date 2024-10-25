@@ -194,8 +194,15 @@
 {"name":"GOLDEN PREMIER 2 MX","image":"http://descargas.podzone.net/logos/-golden-premiere.png",
 "url":"http://tv.nousiptv.com:8080/095488530/Alvaro/4091"},
 
+{"name":"DE PELICULA MX","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbj0HO_DN-HYRmel2PzuWTxxu-_6WOxNwTCWKrdwfsjg&s",
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1155786"},
+
+{"name":"DE PELICULA PLUS MX","image":"https://static.wikia.nocookie.net/logopedia/images/8/82/De_Pel%C3%ADcula_Cl%C3%A1sico_2003-2011.png/revision/latest?cb=20191216011513&path-prefix=es ",
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1155788"},
+
 {"name":"CINECANAL MX","image":"https://i.ibb.co/S0h94pk/CINECANAL.jpg",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/112"}]}]}]}{"name": "REPLEY TV",
+
 "image":"https://yourclubox.com/box/Logos/img1.png",
 "author": "Mexico - p.a.c.o",
 "groups": [
