@@ -49,7 +49,7 @@
 {"name":"FORO TV","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo-ForoTV-2020.png/600px-Logo-ForoTV-2020.png",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/59501"}]},
 
-{"name": "CULTURA",
+{"name": "CULTURA Y ENTRETEMIENTO",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojFF6MH0Z5ifsQHWRwEGAicWPNM1GwYRZSpyY67fY08fTde59n8S4xcKl&s=10 ",
 "author": "Mexico - p.a.c.o",
 "stations": [
@@ -86,6 +86,12 @@
 
 {"name":"H&H OPC 2HD", "image":"https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png", 
 "url":"http://premierchile.shop:8080/47tame53fu42xe56/47wuma84duwe57/411"},
+
+{"name":"COMEDIA CENTRAL", "image":"https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png", 
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/4039"},
+
+{"name":"E!", "image":"https://i.postimg.cc/mrQFrNvs/discovery-home-and-health-logo.png", 
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1155867"},
 
 {"name":"NATGEO","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSb8VPwpuAYlLdvYfuIPhG96AMwz15GgoFraTRXEH23w&s",
 "url":"http://fastream.xyz:8080/936828595tv/c173z0o/59402"}]},
@@ -195,7 +201,7 @@
 "url":"http://tv.nousiptv.com:8080/virolawa/193723/4010"},
 
 {"name":"STUDIO UNIVERSAL","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtC8w1c9rQCVkCSGe9bL_ZoMSyk5Qcq-UQjNlRmX3SQF04yOPnZaInwzX3&s=10 ",
-"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1156005"},
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/4100"},
 
 {"name":"STAR CHANNEL","image":"https://i.ibb.co/WyL4txb/STARCHANEL.jpg",
 "url":"http://premierchile.shop:8080/47tame53fu42xe56/47wuma84duwe57/160"},
@@ -204,7 +210,7 @@
 "url":"http://fastream.xyz:8080/936828595tv/c173z0o/183"},
 
 {"name":"UNIVERSAL SD","image": "https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg",
-"url": "http://tvgusplay.info:8080/rXtKqat6jbME/fFmBJCEncqtS/67"},
+"url": "http://tv.nousiptv.com:8080/095488530/Alvaro/4054"},
 
 {"name":"UNIVERSAL CINEMA","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7QFdK-Hutj_g-WwazGZ28GmPzMibFiTp5LNGHs_zPw7jHnqJ5lSaQj8M&s=10",
 "url":"http://premierchile.shop:8080/47tame53fu42xe56/47wuma84duwe57/54464"},
