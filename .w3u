@@ -7,17 +7,17 @@
 "image": "https://www.trecebits.com/wp-content/uploads/2024/02/logo-tdt-television.webp", 
 "stations": [
 
-{"name":"AZTECA UNO -1 HORA","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO-y2uc8dASOZeGEsQL7JbI3iQ4yTP_uaQRk4R5NfhENpI0kbmefl7hS0&s=10",
-"url":"http://canal-pro.xyz:8080/73177492/13012022/59496"},
+{"name":"AZTECA UNO","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO-y2uc8dASOZeGEsQL7JbI3iQ4yTP_uaQRk4R5NfhENpI0kbmefl7hS0&s=10",
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1155859"},
 
 {"name":"AZTECA 7","image":"https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png",
-"url":"http://canal-pro.xyz:8080/73177492/13012022/59499"},
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/4027"},
 
 {"name":"LAS ESTRELLAS","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Canal_de_las_Estrellas_logo.svg/1200px-Canal_de_las_Estrellas_logo.svg.png",
-"url":"http://canal-pro.xyz:8080/73177492/13012022/59502"},
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/4030"},
 
 {"name":"CANAL 5","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZq4TvwEszIux8o5WiN-wBD7A7grtu73Ulzg&usqp=CAU", 
-"url":"http://canal-pro.xyz:8080/73177492/13012022/59500"},
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1155865"},
 
 {"name":"ADN40","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQLpaYsGCkxzWIuBqJSVHRy1_Ioul2xaD7SvyvyZGWjndfCxZuXKYXTLQ&s=10 ",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/59493"},
@@ -38,13 +38,13 @@
 "url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2008"},
 
 {"name":"AZTECA 7 OP2","image":"https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png",
-"url":"http://canal-pro.xyz:8080/73177492/13012022/24772"},
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1155863"},
 
 {"name":"LAS ESTRELLAS OP2","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Canal_de_las_Estrellas_logo.svg/1200px-Canal_de_las_Estrellas_logo.svg.png",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/59422"},
 
 {"name":"CANAL 5 OP2","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZq4TvwEszIux8o5WiN-wBD7A7grtu73Ulzg&usqp=CAU",
-"url":"http://canal-pro.xyz:8080/73177492/13012022/59500"},
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1155866"},
 
 {"name":"FORO TV","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo-ForoTV-2020.png/600px-Logo-ForoTV-2020.png",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/59501"}]},
@@ -116,7 +116,7 @@
 "url":"http://fastream.xyz:8080/936828595tv/c173z0o/529"},
 
 {"name":"FOX SPORT 3","image":"https://i.postimg.cc/bv5qJvvN/fox3.png",
-"url":"http://fastream.xyz:8080/936828595tv/c173z0o/455"},
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1156757"},
 
 {"name":"FOX DEPORTES","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Sq2aA1FRpvghlub4PEPNnkfKEMU92Ber8w&s",
 "url":"http://fastream.xyz:8080/936828595tv/c173z0o/24030"},
@@ -195,7 +195,7 @@
 "url":"http://tv.nousiptv.com:8080/virolawa/193723/4010"},
 
 {"name":"STUDIO UNIVERSAL","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtC8w1c9rQCVkCSGe9bL_ZoMSyk5Qcq-UQjNlRmX3SQF04yOPnZaInwzX3&s=10 ",
-"url":"http://premierchile.shop:8080/47tame53fu42xe56/47wuma84duwe57/218"},
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1156005"},
 
 {"name":"STAR CHANNEL","image":"https://i.ibb.co/WyL4txb/STARCHANEL.jpg",
 "url":"http://premierchile.shop:8080/47tame53fu42xe56/47wuma84duwe57/160"},
@@ -204,7 +204,7 @@
 "url":"http://fastream.xyz:8080/936828595tv/c173z0o/183"},
 
 {"name":"UNIVERSAL SD","image": "https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg",
-"url": "http://premierchile.shop:8080/47tame53fu42xe56/47wuma84duwe57/5446"},
+"url": "http://tvgusplay.info:8080/rXtKqat6jbME/fFmBJCEncqtS/67"},
 
 {"name":"UNIVERSAL CINEMA","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7QFdK-Hutj_g-WwazGZ28GmPzMibFiTp5LNGHs_zPw7jHnqJ5lSaQj8M&s=10",
 "url":"http://premierchile.shop:8080/47tame53fu42xe56/47wuma84duwe57/54464"},
