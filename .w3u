@@ -315,13 +315,13 @@
 {"name":"UNIVERSAL","image": "https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg",
 "url": "http://tv.nousiptv.com:8080/095488530/Alvaro/4054"},
 
-{"name":"UNIVERSAL CINEMA","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7QFdK-Hutj_g-WwazGZ28GmPzMibFiTp5LNGHs_zPw7jHnqJ5lSaQj8M&s=10",
+{"name":"UNIVERSAL CINEMA","image":"http://descargas.podzone.net/logos/-universal-cinema.png",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/54464"},
 
-{"name":"UNIVERSAL COMEDY","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTTSdnHJSM5brk6OnAzpQPPJfBbkxyBcOgk152A0KoK5SyUJIyK85GJPvh&s=10",
+{"name":"UNIVERSAL COMEDY","image":"http://descargas.podzone.net/logos/-universal-comedy.png",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/54466"},
 
-{"name":"UNIVERSAL PREMIER","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHTEQEKsp9oe7lGay4rcdZq44-aVtJWTvgD5wKSXmP2hsG-8vlXXwqvQmg&s=10",
+{"name":"UNIVERSAL PREMIER","image":"http://descargas.podzone.net/logos/-universal-premier.png",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/54463"},
 
 {"name":"STARZ CINEMA HD","image":"https://static.epg.best/us/StarzCinema.us.png",
