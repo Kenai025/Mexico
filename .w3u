@@ -146,7 +146,7 @@
 {"name":"CINE TERROR","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ9Uo2kRv-NfkeOvN27XVZilVFvUId6wPRHMcAz6BWPsSIhwb9_T_06Xk&s",
 "url":"http://tv.nousiptv.com:8080/virolawa/193723/1180736"},
 
-{"name":"CANTINFLAS","image":"http://51.161.117.219:80/images/07c2eac1b1e9e9091128c87f2dd1d75b.jpg",
+{"name":"CANTINFLAS","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnvNIXeA_uuGc-jvcYa6nFT0KEBQ1rmiPaOA&usqp=CAU",
 "url":"http://disfruta.net/live/richardactiva247/gwqUJUjvgE/726fa940-487e-48b3-b256-e26801023866.m3u"},
 
 {"name":"CHESPIRITO","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0SyKQ4U5wxPNSlkDn26ahsOjnleYN_6wEwPn_YJ3ioZV6JfmhlPREHzo&s",
@@ -163,6 +163,12 @@
 
 {"name":"EL CHAPULIN COLORADO OPC2","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqdAjpf6gcw-j5g1eLHpzMzZneDSZR6ae8v9r1aYsq4w&s",
 "url":"http://fastream.xyz:8080/56967975126wspztv/111221ztv/250493"},
+
+{"name":"LOS SIMPSON","image":"https://i.ibb.co/YDLfZDg/Scale-width-1200-aspect-Ratio-1.webp",
+"url":"http://disfruta.net/live/richardactiva247/gwqUJUjvgE/eb7c4788-71b2-4d4e-91e7-9f3d4025c9ef.m3u"},
+
+{"name":"LOS SIMPSON OPC2","image":"https://i.ibb.co/YDLfZDg/Scale-width-1200-aspect-Ratio-1.webp",
+"url":"http://disfruta.net/live/richardactiva247/gwqUJUjvgE/910cd667-e973-4224-a333-4166fb173898.m3u"},
 
 {"name":"CINE VAMPIROS","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7XtX41-DytXUUWi74XpefW2_rN_8-GU8Osm6pISSGig&s",
 "url":"http://tv.nousiptv.com:8080/virolawa/193723/1185762"}]},
