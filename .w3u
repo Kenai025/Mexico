@@ -140,6 +140,27 @@
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcfRnG_uX6DZkWiiogkuyjsw5FxvOtS1B8SVcLKP7t6F0qeQevjGvriNI&s=10", 
 "stations": [
 
+{"name":"CINE ACCION","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe-1najiqGIz96XRi6NDLCXy1cXXM1iYIDtQ&usqp=CAU",
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1180733"},
+
+{"name":"CINE AMAZON PRIME","image":"https://img.icons8.com/color/512/amazon-prime-video.png",
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1200682"},
+
+{"name":"CINE DIGITAL","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRB4sVdCnJsjplPAgZ54hZo3fV--eXaIJjS8SownmjCMZotzspBVBBx8ri&s=10",
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1202401"},
+
+{"name":"CINE CIENCIA FICCION","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Sci-fi_film_icon.svg/220px-Sci-fi_film_icon.svg.png",
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1191888"},
+
+{"name":"CINE DISNEY+","image":"http://tv.nousiptv.com:8080/095488530/Alvaro/1202811",
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1202811"},
+
+{"name":"CINE SAGAS","image":"https://w7.pngwing.com/pngs/239/20/png-transparent-saga-systems-hd-logo-thumbnail.png",
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1180734"},
+
+{"name":"CINE STAR+","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4XD3BqplcwenSG_OTIdCQHFqKgaqc_mH8a7ywscff-0ylD6nkPJ3OSBQ&s=10",
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1200684"},
+
 {"name":"CINE ROBOTS","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9lGHjJ83JStsVAPd9V9-01HA99k9UbfSVWaSfhwXGwT-eW0aWS_LhTSSm&s=10",
 "url":"http://tv.nousiptv.com:8080/virolawa/193723/1202400"},
 
@@ -345,7 +366,10 @@
 {"name":"STARZ CINEMA OPC2 HD","image":"https://static.epg.best/us/StarzCinema.us.png",
 "url":"http://fastream.xyz:8080/936828595tv/c173z0o/674"},
 
-{"name":"STARZ COMEDY HD","image":"https://static.epg.best/us/StarzComedy.us.png",
+{"name":"STARZ COMEDY","image":"https://static.epg.best/us/StarzComedy.us.png",
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1119202"},
+
+{"name":"STARZ CRIMEN","image":"http://descargas.podzone.net/logos/-universal-crime.png",
 "url":"http://fastream.xyz:8080/936828595tv/c173z0o/665"},
 
 {"name":"STARZ ENCORE CLASSICS","image":"https://static.epg.best/us/StarzEncoreClassics.us.png",
