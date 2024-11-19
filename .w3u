@@ -7,6 +7,9 @@
 "image": "https://www.trecebits.com/wp-content/uploads/2024/02/logo-tdt-television.webp", 
 "stations": [
 
+{"name":"A+","image":"http://live.iptvlatino.cc/stream_icons_mx/amas.png",
+"url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2146"},
+
 {"name":"ADN40","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQLpaYsGCkxzWIuBqJSVHRy1_Ioul2xaD7SvyvyZGWjndfCxZuXKYXTLQ&s=10 ",
 "url":"http://tv.nousiptv.com:8080/095488530/Alvaro/4025"},
 
@@ -261,11 +264,11 @@
 {"name":"EUROPA EUROPA","image":"https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg",
 "url":"http://liontv.es:80/play/XK8A5BUZtMKRm95X-agZom1XSxpzRa3agCQCS5gnLwiBfUqo5GpwiWdSQD6y5l6w/ts"},
 
-{"name":"EUROCHANNEL","image":"https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg",
+{"name":"EUROCHANNEL","image":"http://live.iptvlatino.cc/stream_icons_mx/euro_channel.png",
 "url":"http://liontv.es:80/play/XK8A5BUZtMKRm95X-agZom1XSxpzRa3agCQCS5gnLwjoFkggdtLEG7EivtUTWRW1/ts"},
 
 {"name":"FX","image":"https://i.ibb.co/hs5pPQB/FXHD.jpg ",
-"url":"http://fastream.xyz:8080/936828595tv/c173z0o/59395"},
+"url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1067"},
 
 {"name":"GOLDEN","image":"https://i.ibb.co/TP1rVyx/GOLDEN.jpg",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/127"},
@@ -367,7 +370,7 @@
 "url":"http://canal-pro.xyz:8080/73177492/13012022/54466"},
 
 {"name":"UNIVERSAL CRIME","image":"http://descargas.podzone.net/logos/-universal-crime.png",
-"url":"http://fastream.xyz:8080/936828595tv/c173z0o/665"},
+"url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1142"},
 
 {"name":"UNIVERSAL PREMIER","image":"http://descargas.podzone.net/logos/-universal-premier.png",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/54463"},
