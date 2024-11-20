@@ -37,6 +37,9 @@
 {"name":"CANAL 5 OPC2","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZq4TvwEszIux8o5WiN-wBD7A7grtu73Ulzg&usqp=CAU",
 "url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1155866"},
 
+{"name":"ESTRELLA TV","image":"http://descargas.podzone.net/logos/-estrella-tv.png",
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/41188"},
+
 {"name":"FORO TV","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo-ForoTV-2020.png/600px-Logo-ForoTV-2020.png",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/59501"},
 
@@ -45,6 +48,9 @@
 
 {"name":"CANAL NUEVE","image":"https://www.pandaancha.mx/plds/articulos/froala/canal9logo-168x168-409953538.png",
 "url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2154"},
+
+{"name":"TELEMNDO","image":"http://descargas.podzone.net/logos/-telemundo.png",
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/43189"},
 
 {"name":"CANAL ONCE","image":"https://www.contrareplica.mx/uploads/normal/fd04fbe0e16b3367fe090d478651b663.jpg",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/59594"}]},
@@ -212,8 +218,8 @@
 {"name":"MI VILLANO FAVORITO 1,2,3,4","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBIyNfqji1HhbByhIw2fJjfCs7-jDefC2QAzQ8IryWb-ZmMvhWbcNSyP0&s=10",
 "url":"http://tvpremium.pro:80/play/KXsWbPCJuuqXq5x6XdFBcvydCLxyLzjVAzEI3rx7RSvmcvAyvalGGtdoa_XddOBQ/ts"},
 
-{"name":"MOVIE CENTER PREMIUN","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBdHYMAKhn4Wzk3tdM6iHR-ftiGKyE92ozA&s",
-"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1147993"},
+{"name":"CINE MANIA","image":"http://descargas.podzone.net/logos/-cine-mania.png",
+"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1148843"},
 
 {"name":"CINE VAMPIROS","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7XtX41-DytXUUWi74XpefW2_rN_8-GU8Osm6pISSGig&s",
 "url":"http://tv.nousiptv.com:8080/virolawa/193723/1185762"}]},
