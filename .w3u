@@ -1,4 +1,4 @@
-{"name": "REPLEY TV",
+{"name": "REPLAY TV",
 "image":"https://yourclubox.com/box/Logos/img1.png",
 "author": "Mexico - p.a.c.o",
 "groups": [
@@ -65,8 +65,14 @@
 {"name":"AZTECA UNO","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/AZUNO.png",
 "url":"http://home-playtv.com:8080/live/cfrJNc6LUjaG/8ZE5KZTcv3Ne/9599.m3u8"},
 
+{"name":"AZTECA UNO OPC2","image":"http://lonewolftvpr.com/logos/azteca1.png",
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/458"},
+
 {"name":"AZTECA 7","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/AZ7.png",
 "url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/24894"},
+
+{"name":"AZTECA 7 PC2","image":"http://lonewolftvpr.com/logos/azteca7.png",
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/6"},
 
 {"name":"LAS ESTRELLAS","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/ESTRELLAS-2hrs.png",
 "url":"http://home-playtv.com:8080/live/cfrJNc6LUjaG/8ZE5KZTcv3Ne/236447.m3u8"},
@@ -300,6 +306,9 @@
 
 {"name":"CINEMA","image":"http://descargas.podzone.net/logos/-AZ-cinema.png",
 "url":"http://liontv.es:80/play/XK8A5BUZtMKRm95X-agZokLZZw1N4Mf_M6AscbuwpVcjYjuRIkTM1xpLXenGYVJP/ts"},
+
+{"name":"CINEMA OPC2","image":"http://lonewolftvpr.com/logos/Azcinema.png",
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/72"},
 
 {"name":"CINEMAX","image":"https://i.ibb.co/xjsQJ2P/CINEMAX.jpg ",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/177"},
