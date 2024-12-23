@@ -209,8 +209,8 @@
 {"name":"TUDN","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTItR5lqJvOx7cabASwxWCjnonRlctR18GkZRt-iL292yvFKHoaByLDUl0&s=10",
 "url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2113"}]},
 
-{"name": "CINE & 24/7",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcfRnG_uX6DZkWiiogkuyjsw5FxvOtS1B8SVcLKP7t6F0qeQevjGvriNI&s=10", 
+{"name": "CINE & SERIES 24/7",
+"image": "https://lonewolftvpr.com/logos/247.png", 
 "stations": [
 
 {"name":"CINE ACCION","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe-1najiqGIz96XRi6NDLCXy1cXXM1iYIDtQ&usqp=CAU",
@@ -388,7 +388,7 @@
 {"name":"HBO FAMILY OPC2","image":"http://miarea.vip:8080/images/6ea796d2cc6be935f471325a6929784f.png",
 "url":"http://disfruta.net/live/richardactiva247/gwqUJUjvgE/c43c4fd4-8fa9-423e-9133-c777bbc32262.m3u"},
 
-{"name":"HBO LATINO","image":"http://live.iptvlatino.cc/stream_icons_mx/hbo_latino_us.png",
+{"name":"HBO LATINO","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2f1LTHqepD5_cTeYQYhV-Rr5kOGdFeDusMosB5kzpHw&s",
 "url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2075"},
 
 {"name":"HBO MUNDI","image":"https://i.ibb.co/Hg50ZZ4/HBOMUNDI.jpg ",
@@ -406,8 +406,8 @@
 {"name":"HBO POP","image":"https://i.ibb.co/VQLsWDt/HBOPOP.jpg",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/147"},
 
-{"name":"HBO POP OPC2","image":"http://stalkertvlatinoplay.com/LOGOS/CINE/HBOPOP.png",
-"url":"http://disfruta.net/live/richardactiva247/gwqUJUjvgE/058abb78-6fa7-41d0-8472-f19b3c5d7d11.m3u"},
+{"name":"HBO POP OPC2","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNxyVRrvlZVh7LVk4OaHC6ytW0e1Bm5JuOpQ&s",
+"url":"http://tvpremiund.ddns.me:2082/sintv542/gbu207367/30416"},
 
 {"name":"HBO SIGNATURE","image":"https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/151"},
