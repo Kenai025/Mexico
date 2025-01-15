@@ -107,11 +107,20 @@
 {"name":"HBO FAMILY","image":"http://tvlatino.club:2082/images/4362f9515924289e842af2dc213d5548.png",
 "url":"http://home-playtv.com:8080/live/cfrJNc6LUjaG/8ZE5KZTcv3Ne/12854.m3u8"},
 
+{"name":"HBO MUNDI","image":"http://tvlatino.club:2082/images/4362f9515924289e842af2dc213d5548.png",
+"url":"http://home-playtv.com:8080/live/cfrJNc6LUjaG/8ZE5KZTcv3Ne/12854.m3u8"},
+
+{"name":"HBO PLUS","image":"https://i0.wp.com/associacaoneo.com.br/wp-content/uploads/2020/06/0000_all_l_hboall-HBO-Mundi-Black.png",
+"url":"http://playtvpremium.xyz:2095/Streamgo/gpUZfg4y6R/315147"},
+
+{"name":"HBO POP","image":"https://th.bing.com/th/id/OIP.BaHeNXJiJ_B8rai72hzB2AHaFt?rs=1&pid=ImgDetMain",
+"url":"http://playtvpremium.xyz:2095/15142220444play/210924play/315097"},
+
+{"name":"HBO PSIGNATURE","image":"https://th.bing.com/th/id/OIP.X9qF4O4oQaTIKsbCFApQ9wAAAA?rs=1&pid=ImgDetMain",
+"url":"http://playtvpremium.xyz:2095/15142220444play/210924play/315098"},
+
 {"name":"PARAMOUNT","image":"http://tvlatino.club:2082/images/3e48cca712d5060410a85a4135606ac8.png",
 "url":"http://home-playtv.com:8080/live/cfrJNc6LUjaG/8ZE5KZTcv3Ne/242033.m3u8"},
-
-{"name":"HBO PLUS","image":"http://tvlatino.club:2082/images/0d780a8b6c04197286b619f02c914477.png",
-"url":"http://home-playtv.com:8080/live/cfrJNc6LUjaG/8ZE5KZTcv3Ne/159125.m3u8"},
 
 {"name":"SPACE","image":"http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/640px-SpaceLogo.svg.png",
 "url":"http://home-playtv.com:8080/live/cfrJNc6LUjaG/8ZE5KZTcv3Ne/159153.m3u8"}]},
