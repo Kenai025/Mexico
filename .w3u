@@ -92,11 +92,11 @@
 {"name":"DE PELICULA","image":"https://www.lyngsat.com/logo/tv/dd/de-pelicula-mx.png",
 "url":"http://home-playtv.com:8080/live/cfrJNc6LUjaG/8ZE5KZTcv3Ne/53095.m3u8"},
 
-{"name":"FILMEX","image":"https://i.imgur.com/Hiz2OyC.png",
-"url":"http://latinchannel.tv:8080/gildarut2/ewk9iycd/38452"},
+{"name":"CINE DE ORO","image":"https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700005KL_20240625T011323SQUARE.png",
+"url":"http://new-tv.cloud:25461/CarlosManE22/carlosM22/754247"},
 
-{"name":"FILMEX CLASICO","image":"https://i.imgur.com/D3dj4mv.png",
-"url":"http://latinchannel.tv:8080/gildarut2/ewk9iycd/38453"},
+{"name":"CINE RETRO","image":"https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500022U5_20240520T212746SQUARE.png",
+"url":"http://new-tv.cloud:25461/CarlosManE22/carlosM22/754248"},
 
 {"name":"GOLDEN PLUS","image":"https://i.ibb.co/x8x7LYX/GILDEN.png",
 "url":"http://home-playtv.com:8080/live/cfrJNc6LUjaG/8ZE5KZTcv3Ne/53089.m3u8"},
