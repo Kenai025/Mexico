@@ -151,7 +151,7 @@
 {"name":"DISCOVERY CHANNEL", "image":"http://descargas.podzone.net/logos/-discovery-channel.png", 
 "url":"http://fivetv.org:25461/GaboT/2023GT/91317"},
 
-{"name":"DISCOVERY TURBO","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2UYF3YelMPGVrh056vcNhUpZln0pELkUydJh88iKUeg&s",
+{"name":"DISCOVERY TURBO","image":"http://descargas.podzone.net/logos/-discovery-turbo.png",
 "url":"http://fivetv.org:25461/GaboT/2023GT/186505"},
 
 {"name":"DISTRITO COMEDIA","image":"http://descargas.podzone.net/logos/-distrito-comedia.png", 
@@ -406,19 +406,19 @@
 {"name":"TNT SERIES","image":"https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg",
 "url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9749.m3u8"},
 
-{"name":"UNIVERSAL","image": "https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg",
+{"name":"UNIVERSAL","image": "http://descargas.podzone.net/logos/-universal-channel.png",
 "url": "http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9754.m3u8"},
 
-{"name":"UNIVERSAL CINEMA","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6dCXFrnwmA9UVhQZ4z8_kLxRvi_rlmq458w&usqp=CAU",
+{"name":"UNIVERSAL CINEMA","image":"http://descargas.podzone.net/logos/-universal-cinema.png",
 "url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9757.m3u8"},
 
-{"name":"UNIVERSAL COMEDY","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFmvrkrQoWzYY7G6atlwym03ZkYyNkSPftZg&usqp=CAU",
+{"name":"UNIVERSAL COMEDY","image":"http://descargas.podzone.net/logos/-universal-comedy.png",
 "url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9728.m3u8"},
 
-{"name":"UNIVERSAL CRIME","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNYPWcXOzk9hbMjDMRHvWa8dtjtBRGyokigQ&usqp=CAU",
+{"name":"UNIVERSAL CRIME","image":"http://descargas.podzone.net/logos/-universal-crime.png",
 "url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9763.m3u8"},
 
-{"name":"UNIVERSAL PREMIER","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNlp6GoK3BOhBk2iAcUl8tNCHmckNRsha8KQ&usqp=CAU",
+{"name":"UNIVERSAL PREMIER","image":"http://descargas.podzone.net/logos/-universal-premier.png",
 "url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9765.m3u8"},
 
 {"name":"STARZ CINEMA HD","image":"https://static.epg.best/us/StarzCinema.us.png",
