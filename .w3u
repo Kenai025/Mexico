@@ -1,6 +1,6 @@
 {"name": "REPLAY TV",
 "image":"https://yourclubox.com/box/Logos/img1.png",
-"author": "Mexico - P.A.C.O.",
+"author": "Mexico - p.a.c.o",
 "groups": [
 
 {"name": "MÉXICO TDT",
@@ -10,37 +10,37 @@
 {"name":"A+","image":"http://live.iptvlatino.cc/stream_icons_mx/amas.png",
 "url":"https://ecuazona.live:8443/play/aoQaTqim_iM-YOsmPUioBOoOq92iGfHp2NzkZxwujcT8doaa9gyVtbZMZs5JpB7Y/ts"},
 
-{"name":"ADN40","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQLpaYsGCkxzWIuBqJSVHRy1_Ioul2xaD7SvyvyZGWjndfCxZuXKYXTLQ&s=10 ",
+{"name":"ADN40","image":"http://descargas.podzone.net/logos/-ADN-40.png",
 "url":"http://tvpremium.pro/live/Erick12345/Erick12345/7f0b2c07-c7a2-496c-ab48-7740db34eada.m3u"},
 
-{"name":"AZTECA UNO","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO-y2uc8dASOZeGEsQL7JbI3iQ4yTP_uaQRk4R5NfhENpI0kbmefl7hS0&s=10",
+{"name":"AZTECA UNO","image":"http://descargas.podzone.net/logos/-azteca-uno.png",
 "url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/670544"},
 
-{"name":"AZTECA 7","image":"https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png",
+{"name":"AZTECA 7","image":"http://descargas.podzone.net/logos/-azteca-7.png",
 "url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/670543"},
 
-{"name":"LAS ESTRELLAS","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Canal_de_las_Estrellas_logo.svg/1200px-Canal_de_las_Estrellas_logo.svg.png",
+{"name":"LAS ESTRELLAS","image":"http://descargas.podzone.net/logos/-el-canal-de-las-estrellas.png",
 "url":"http://tvpremium.pro/live/Erick12345/Erick12345/e51984a3-b9a0-406d-83e1-eeed52c23ecc.m3u"},
 
-{"name":"CANAL 5","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZq4TvwEszIux8o5WiN-wBD7A7grtu73Ulzg&usqp=CAU", 
+{"name":"CANAL 5","image":"http://descargas.podzone.net/logos/-canal-5-mx.png", 
 "url":"http://tvpremium.pro/live/Erick12345/Erick12345/cfc443c8-ff5e-4cb5-8a96-ec6c0601f6bc.m3u"},
 
 {"name":"ESTRELLA TV","image":"http://descargas.podzone.net/logos/-estrella-tv.png",
 "url":"http://tvpremium.pro/live/Erick12345/Erick12345/9f33d548-2c60-4dc8-a93f-f79226c4e765.m3u"},
 
-{"name":"FORO TV","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo-ForoTV-2020.png/600px-Logo-ForoTV-2020.png",
+{"name":"FORO TV","image":"http://descargas.podzone.net/logos/-foro-tv.png",
 "url":"http://tvpremium.pro/live/Erick12345/Erick12345/039f938e-20b9-4a82-b1a4-b8c72c70df63.m3u"},
 
-{"name":"IMAGEN TV","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLAIjbviJ4bU-iD_WhabSEnfzZrz5L2ENGBAfJSjTxI8o7ePFzQzYv16M&s=10",
+{"name":"IMAGEN TV","image":"http://descargas.podzone.net/logos/-imagen-tv.png",
 "url":"http://fivetv.org:25461/GaboT/2023GT/186819"},
 
-{"name":"CANAL NUEVE","image":"https://www.pandaancha.mx/plds/articulos/froala/canal9logo-168x168-409953538.png",
+{"name":"CANAL NUEVE","image":"http://descargas.podzone.net/logos/-galavision.png",
 "url":"http://fivetv.org:25461/GaboT/2023GT/186812"},
 
 {"name":"TELEMUNDO","image":"http://descargas.podzone.net/logos/-telemundo.png",
 "url":"http://tvpremium.pro/live/Erick12345/Erick12345/6d786116-ca99-41cb-8947-ef25555c8066.m3u"},
 
-{"name":"CANAL ONCE","image":"https://www.contrareplica.mx/uploads/normal/fd04fbe0e16b3367fe090d478651b663.jpg",
+{"name":"CANAL ONCE","image":"http://descargas.podzone.net/logos/-once-tv.png",
 "url":"http://fivetv.org:25461/GaboT/2023GT/186813"}]},
 
 {"name": "CANALES WEB",
@@ -83,7 +83,7 @@
 {"name":"FILMEX CLASICO HD","image":"https://image.xumo.com/v1/channels/channel/99951120/600x600.webp?type=color_onBlack",
 "url":"http://fivetv.org:25461/GaboT/2023GT/173277"},
 
-{"name":"FILMEX ACCON HD","image":"https://png.pngtree.com/png-clipart/20230403/original/pngtree-mexico-vector-flag-png-image_9024188.png",
+{"name":"FILMEX ACCON HD","image":"https://i.ibb.co/JkKpwmr/Filmex.png",
 "url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/670488"},
 
 {"name":"GOLDEN PLUS","image":"http://descargas.podzone.net/logos/-golden.png",
@@ -161,7 +161,7 @@
 "url":"http://fivetv.org:25461/GaboT/2023GT/91318"},
 
 {"name":"HISTORY","image":"http://descargas.podzone.net/logos/-history.png", 
-"url":"https://ecuazona.live:8443/play/aoQaTqim_iM-YOsmPUioBLXTvO4F9c5j9k0ecimCssy67-yKd7SinE1ZPv7kf5zr/ts"},
+"url":"http://fivetv.org:25461/GaboT/2023GT/186509"},
 
 {"name":"HISTORY 2","image":"http://descargas.podzone.net/logos/-H2-(history2).png", 
 "url":"http://fivetv.org:25461/GaboT/2023GT/186507"},
@@ -170,7 +170,7 @@
 "url":"https://ecuazona.live:8443/play/aoQaTqim_iM-YOsmPUioBEep6urzEUrxcGZdhpC8IVjBk_MzcuafrT7j9Bz7tgsk/ts"},
 
 {"name":"HGTV","image":"http://descargas.podzone.net/logos/-HGTV.png", 
-"url":"https://ecuazona.live:8443/play/aoQaTqim_iM-YOsmPUioBOOOUrutLaqRmEkOhoIbEtwxsAKd4A8x12EPxpV071nL/ts"},
+"url":"http://fivetv.org:25461/GaboT/2023GT/91326"},
 
 {"name":"ID","image":"http://descargas.podzone.net/logos/-discovery-ID.png", 
 "url":"http://fivetv.org:25461/GaboT/2023GT/186501"},
@@ -185,7 +185,7 @@
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMrolwfypxQd0lXs7Nx-kVfN9Ee18C0EbbrzdxAboDyQ&s", 
 "stations": [
 
-{"name":"AZTECA DEPORTES","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-q76RnjB6u3hq7YLGWwInuyNLWZQU1bBlspIgX_0ABOX--FV-pe7n7c&s=10",
+{"name":"AZTECA DEPORTES","image":"http://descargas.podzone.net/logos/-azteca.png",
 "url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/670494"},
 
 {"name":"BEIN S Ñ","image":"https://1.bp.blogspot.com/-T4UnDWGyhb0/Xay_YgqwzVI/AAAAAAAAAkE/mta3F4p2leUOXJzzGQQWIW0Jjxw2uLYHACLcBGAsYHQ/s200/17.png",
@@ -316,7 +316,7 @@
 {"name":"CINECANAL","image":"http://descargas.podzone.net/logos/-cinecanal.png",
 "url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9630.m3u8"},
 
-{"name":"CINEMA","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/2560px-TV_Azteca_Cinema_logo.svg.png",
+{"name":"CINEMA","image":"http://descargas.podzone.net/logos/-AZ-cinema.png",
 "url":"http://fivetv.org:25461/GaboT/2023GT/169185"},
 
 {"name":"CINEMAX","image":"http://descargas.podzone.net/logos2/-CINEMAX.png",
@@ -361,52 +361,52 @@
 {"name":"GOLDEN PREMIER 2","image":"http://descargas.podzone.net/logos/-golden-premiere.png",
 "url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9665.m3u8"},
 
-{"name":"HBO","image":"https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png",
+{"name":"HBO","image":"http://descargas.podzone.net/logos/-HBO.png",
 "url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9668.m3u8"},
 
-{"name":"HBO 2","image":"https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png",
+{"name":"HBO 2","image":"http://descargas.podzone.net/logos/-HBO-2.png",
 "url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9672.m3u8"},
 
-{"name":"HBO FAMILY","image":"https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png",
+{"name":"HBO FAMILY","image":"http://descargas.podzone.net/logos/-HBO-family.png",
 "url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9676.m3u8"},
 
-{"name":"HBO MUNDI","image":"https://1.bp.blogspot.com/-oN7wX127j3Q/Xw8lq7qqpSI/AAAAAAAAAWA/gTwoVU0sXXsbMIDKd7I6ojgR-28dars6ACLcBGAsYHQ/w200-h200/hbomundi.png",
+{"name":"HBO MUNDI","image":"http://descargas.podzone.net/logos/-HBO-mundi.png",
 "url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9684.m3u8"},
 
-{"name":"HBO PLUS","image":"https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png",
+{"name":"HBO PLUS","image":"http://descargas.podzone.net/logos/-HBO-plus.png",
 "url":"http://fivetv.org:25461/GaboT/2023GT/186498"},
 
-{"name":"HBO POP","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNxyVRrvlZVh7LVk4OaHC6ytW0e1Bm5JuOpQ&s",
+{"name":"HBO POP","image":"http://descargas.podzone.net/logos/-HBO-pop.png",
 "url":"https://ecuazona.live:8443/play/aoQaTqim_iM-YOsmPUioBKNfUPzhkJDTDlx2q1ezC5rV4Q4d2kkJ6zNJ2fiHGT6L/ts"},
 
-{"name":"HBO SIGNATURE","image":"https://1.bp.blogspot.com/-U60Pby9cnqI/Xw8ovhvpzuI/AAAAAAAAAWY/iU_CaOeTilQPEcKEGo7-rJ0MbA_sDb8SgCLcBGAsYHQ/w200-h200/SIGNATURE.png",
+{"name":"HBO SIGNATURE","image":"http://descargas.podzone.net/logos/-HBO-signature.png",
 "url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9695.m3u8"},
 
-{"name":"HBO XTREME","image":"https://i.ibb.co/bPRQG6P/hboext1.png",
+{"name":"HBO XTREME","image":"http://descargas.podzone.net/logos/-HBO-xtream.png",
 "url":"http://fivetv.org:25461/GaboT/2023GT/186493"},
 
-{"name":"PANICO","image":"http://live.iptvlatino.cc/stream_icons_mx/panico.png",
+{"name":"PANICO","image":"http://descargas.podzone.net/logos/-panico-tv.png",
 "url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9704.m3u8"},
 
-{"name":"PARAMOUNT","image":"http://live.iptvlatino.cc/stream_icons_mx/paramount.png",
+{"name":"PARAMOUNT","image":"http://descargas.podzone.net/logos/-paramount.png",
 "url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9705.m3u8"},
 
-{"name":"SONY CINE","image":"http://live.iptvlatino.cc/stream_icons_mx/sony_cine.png",
+{"name":"SONY CINE","image":"http://descargas.podzone.net/logos/-sony-movies.png",
 "url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9713.m3u8"},
 
-{"name":"SPACE","image":"https://i.ibb.co/VmrGxxp/SPACE.jpg ",
+{"name":"SPACE","image":"https://i.pinimg.com/originals/3c/c3/f3/3cc3f3c0622d2d0f516dac097ae0eb0f.jpg",
 "url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9717.m3u8"},
 
-{"name":"STAR CHANNEL","image":"https://i.ibb.co/WyL4txb/STARCHANEL.jpg",
+{"name":"STAR CHANNEL","image":"http://descargas.podzone.net/logos/-star-channel.png",
 "url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9721.m3u8"},
 
-{"name":"STUDIO UNIVERSAL","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtC8w1c9rQCVkCSGe9bL_ZoMSyk5Qcq-UQjNlRmX3SQF04yOPnZaInwzX3&s=10 ",
+{"name":"STUDIO UNIVERSAL","image":"http://descargas.podzone.net/logos/-studio-universal.png",
 "url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9733.m3u8"},
 
-{"name":"TNT","image":"https://i.ibb.co/0q21c8Q/TNT.jpg",
+{"name":"TNT","image":"http://descargas.podzone.net/logos/-TNT.png",
 "url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9744.m3u8"},
 
-{"name":"TNT SERIES","image":"https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg",
+{"name":"TNT SERIES","image":"http://descargas.podzone.net/logos/-TNT-series.png",
 "url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9749.m3u8"},
 
 {"name":"UNIVERSAL","image": "http://descargas.podzone.net/logos/-universal-channel.png",
