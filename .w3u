@@ -1,6 +1,6 @@
-"name": "REPLAY TV",
+{"name": "REPLAY TV",
 "image":"https://yourclubox.com/box/Logos/img1.png",
-"author": "Mexico - P.A.C.O.",
+"author": "Mexico - p.a.c.o.",
 "groups": [
 
 {"name": "MÉXICO TDT",
@@ -51,22 +51,22 @@
 "url":"https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?uid=1z72FLX69MASINfEckvx3IfGnQaL4iDT&sid=UT0gm8jjxi9NrV6by87qipVyWNCuQlml&pid=jytODsBC9kMIg8MRcwgC64OdYUQbzR3c&an=screen&at=web-app&av=v5.2.327&ref=https%3A%2F%2Flive.adn40.mx%2F&res=1522x658&without_cookies=false&listenerid=&dnt=true"},
 
 {"name":"AZTECA UNO","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/AZUNO.png",
-"url":"https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8"},
+"url":"https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u"},
 
 {"name":"AZTECA 7","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/AZ7.png",
-"url":"https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8"},
+"url":"https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u"},
 
 {"name":"LAS ESTRELLAS","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/ESTRELLAS.png",
 "url":"http://tvpremium.pro/live/Erick12345/Erick12345/e51984a3-b9a0-406d-83e1-eeed52c23ecc.m3u"},
 
 {"name":"CANAL 5","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/caaanal5.png",
-"url":"https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8"},
+"url":"https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u"},
 
 {"name":"ESTRELLA TV","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/caaanal5.png",
-"url":"https://estrellatv-oando.amagi.tv/playlist.m3u8"},
+"url":"https://estrellatv-oando.amagi.tv/playlist.m3u"},
 
 {"name":"ESTRELLA NEW","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/caaanal5.png",
-"url":"https://estrella-news-oando.amagi.tv/playlist.m3u8"},
+"url":"https://estrella-news-oando.amagi.tv/playlist.m3u"},
 
 {"name":"CINECANAL","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/CINEMA/cinecanal.png",
 "url":"http://tvpremium.pro/live/Erick12345/Erick12345/0851f0d5-2441-47c9-8cae-a7ab71132bed.m3u"},
@@ -87,9 +87,9 @@
 "url":"http://tvpremium.pro/live/Erick12345/Erick12345/441641b1-3aa9-4910-97f4-fcb6b044b54e.m3u"},
 
 {"name":"SONY MOVIES","image":"https://image.xumo.com/v1/channels/channel/99951120/600x600.webp?type=color_onBlack",
-"url":"http://tvpremium.pro/live/Erick12345/Erick12345/0108ca31-f714-4a3c-8b90-8e12beee456f.m3u"},
+"url":"hhttp://tvpremium.pro/live/Erick12345/Erick12345/0108ca31-f714-4a3c-8b90-8e12beee456f.m3u"},
 
-{"name":"PARAMOUNT","image":"https://png.pngtree.com/png-clipart/20230403/original/pngtree-mexico-vector-flag-png-image_9024188.png",
+{"name":"PARMOUNT","image":"https://png.pngtree.com/png-clipart/20230403/original/pngtree-mexico-vector-flag-png-image_9024188.png",
 "url":"http://tvpremium.pro/live/Erick12345/Erick12345/2dab0584-6cee-474d-8024-82c0d03d1130.m3u"},
 
 {"name":"GOLDEN PLUS","image":"https://i.ibb.co/x8x7LYX/GILDEN.png",
