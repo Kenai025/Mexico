@@ -53,14 +53,11 @@
 {"name":"AZTECA 7","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/AZ7.png",
 "url":"https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u"},
 
-{"name":"LAS ESTRELLAS","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/ESTRELLAS.png",
+{"name":"LAS ESTRELLAS","image":"https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",
 "url":"http://tvpremium.pro/live/Erick12345/Erick12345/e51984a3-b9a0-406d-83e1-eeed52c23ecc.m3u"},
 
 {"name":"CANAL 5","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/caaanal5.png",
-"url":"https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u"},
-
-{"name":"ESTRELLA TV","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/caaanal5.png",
-"url":"hhttp://tvpremium.pro:8080/live/Erick12345/Erick12345/2712693d-03e9-4b2f-90ab-b7f74ecc4c36.m3u"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/7bc361b6-d069-4845-b963-101f774d5875.m3u"},
 
 {"name":"CINECANAL","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/CINEMA/cinecanal.png",
 "url":"http://tvpremium.pro/live/Erick12345/Erick12345/0851f0d5-2441-47c9-8cae-a7ab71132bed.m3u"},
@@ -68,11 +65,8 @@
 {"name":"CINEMAX","image":"https://logos.xbots.com.mx/3935.png",
 "url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/68f8b4d7-41c6-4ac4-9af9-265d83586691.m3u"},
 
-{"name":"CLARO CINEMA","image":"https://i.postimg.cc/GmBdWK7b/claro-cinema.png",
-"url":"http://tvpremium.pro/live/Erick12345/Erick12345/aa16fb31-bebe-4246-811e-1a5540cd2d24.m3u"},
-
 {"name":"DE PELICULA","image":"https://www.lyngsat.com/logo/tv/dd/de-pelicula-mx.png",
-"url":"http://tvpremium.pro/live/Erick12345/Erick12345/072eb9dd-a60c-47ea-9f6a-77d2fef33628.m3u"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/dd9ad567-921b-48e0-b6eb-df1c3db50c7e.m3u"},
 
 {"name":"AZCINEMA","image":"https://image.xumo.com/v1/channels/channel/99951120/600x600.webp?type=color_onBlack",
 "url":"http://tvpremium.pro/live/Erick12345/Erick12345/9cb420c3-fad8-4a39-af69-34c2d0eaf825.m3u"},
