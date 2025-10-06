@@ -68,16 +68,16 @@
 {"name":"DE PELICULA","image":"https://www.lyngsat.com/logo/tv/dd/de-pelicula-mx.png",
 "url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/dd9ad567-921b-48e0-b6eb-df1c3db50c7e.m3u"},
 
-{"name":"AZCINEMA","image":"https://image.xumo.com/v1/channels/channel/99951120/600x600.webp?type=color_onBlack",
+{"name":"AZCINEMA","image":"https://1.bp.blogspot.com/--fcykTIfCuM/Xm5wXqrCohI/AAAAAAAABgo/SG1Fhjw4qfwahRTffNn7aqsPxHr7h8YMwCLcBGAsYHQ/s200/19.png",
 "url":"http://tvpremium.pro/live/Erick12345/Erick12345/9cb420c3-fad8-4a39-af69-34c2d0eaf825.m3u"},
 
 {"name":"CINE FAMILIAR","image":"https://png.pngtree.com/png-clipart/20210328/original/pngtree-container-cinema-entertainment-popcorn-png-image_6159308.png",
 "url":"http://tvpremium.pro/live/Erick12345/Erick12345/441641b1-3aa9-4910-97f4-fcb6b044b54e.m3u"},
 
-{"name":"SONY MOVIES","image":"http://miarea.vip:8080/images/9ae2767f15b15da469c307585dd350c0.png",
+{"name":"SONY CINE","image":"https://1.bp.blogspot.com/-pDZUOqatcCc/YDSFENFbt6I/AAAAAAAACFk/aG-Brvhw2Hoz5IsWO5eyTJtIdk3FqDS7wCLcBGAsYHQ/w200-h200/Sony.png",
 "url":"http://tvpremium.pro/live/Erick12345/Erick12345/0108ca31-f714-4a3c-8b90-8e12beee456f.m3u"},
 
-{"name":"PARAMOUNT","image":"https://i.ibb.co/8Nwxh6T/cinema.png",
+{"name":"PARAMOUNT","image":"http://23.153.216.121:25461/images/1ee9fef6d5c6cc7c7917ea651f59673c.png",
 "url":"http://tvpremium.pro/live/Erick12345/Erick12345/2dab0584-6cee-474d-8024-82c0d03d1130.m3u"},
 
 {"name":"GOLDEN PLUS","image":"https://i.ibb.co/x8x7LYX/GILDEN.png",
@@ -90,7 +90,7 @@
 "url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/bd7b9ab4-f313-486a-a3ba-e8953002ceba.m3u"},
 
 {"name":"HBO","image":"http://stalkertvlatinoplay.com/LOGOS/CINE/HBO.png",
-"url":"http://tvpremium.pro/live/Erick12345/Erick12345/983a1eb0-f711-44ab-a302-5cba1a8a8823.m3u"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/488f2fce-a8a9-4506-934d-082f4fe09721.m3u"},
 
 {"name":"HBO 2","image":"http://stalkertvlatinoplay.com/LOGOS/CINE/HBO.png",
 "url":"http://tvpremium.pro/live/Erick12345/Erick12345/00dc9694-a6f0-4f8b-b4b4-7906db7eb7da.m3u"},
@@ -113,7 +113,7 @@
 {"name":"HBO XTREME","image":"https://i.ibb.co/bPRQG6P/hboext1.png",
 "url":"http://tvpremium.pro/live/Erick12345/Erick12345/b07c279b-2499-43b5-905f-b9d85e77f956.m3u"},
 
-{"name":"PARAMOUNT","image":"https://i.ibb.co/8Nwxh6T/cinema.png",
+{"name":"PARAMOUNT","image":"http://23.153.216.121:25461/images/1ee9fef6d5c6cc7c7917ea651f59673c.png",
 "url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/5e3c427c-ffbb-479e-a2ee-91616e0fbcc2.m3u"},
 
 {"name":"ULTRA CINE","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5UKufypGMZNEeBeEkvE38D07mQk9MCy_1w&usqp=CAU",
@@ -131,7 +131,7 @@
 {"name":"ULTRA MEXICO","image":"https://cc.org.mx/wp-content/uploads/2021/03/logo_ultra-mexico-570x570.png",
 "url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/7ce09453-98ca-4721-9e60-d57c589687f3.m3u"},
 
-{"name":"SPACE","image":"http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/640px-SpaceLogo.svg.png",
+{"name":"SPACE","image":"https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png",
 "url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/3c79668e-20db-4a7f-b0f5-f7fd744c2ecc.m3u"}]},
 
 {"name": "CULTURA & ENTRETENIMIENTO",
