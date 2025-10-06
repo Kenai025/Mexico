@@ -1,6 +1,6 @@
 {"name": "REPLAY TV",
 "image":"https://yourclubox.com/box/Logos/img1.png",
-"author": "Mexico - P.A.C.O.",
+"author": "Mexico - p.a.c.o.",
 "groups": [
 
 {"name": "MÉXICO TDT",
@@ -8,16 +8,16 @@
 "stations": [
 
 {"name":"A+","image":"http://live.iptvlatino.cc/stream_icons_mx/amas.png",
-"url":"https://ecuazona.live:8443/play/aoQaTqim_iM-YOsmPUioBOoOq92iGfHp2NzkZxwujcT8doaa9gyVtbZMZs5JpB7Y/ts"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/12031cae-0a95-4349-a433-f2687bec55ad.m3u"},
 
 {"name":"ADN40","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQLpaYsGCkxzWIuBqJSVHRy1_Ioul2xaD7SvyvyZGWjndfCxZuXKYXTLQ&s=10 ",
 "url":"http://tvpremium.pro/live/Erick12345/Erick12345/7f0b2c07-c7a2-496c-ab48-7740db34eada.m3u"},
 
 {"name":"AZTECA UNO","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO-y2uc8dASOZeGEsQL7JbI3iQ4yTP_uaQRk4R5NfhENpI0kbmefl7hS0&s=10",
-"url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/670544"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/8676d5e8-7012-4062-b9c6-ba4867c46841.m3u"},
 
 {"name":"AZTECA 7","image":"https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png",
-"url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/670543"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/5a4f9e7e-6f16-4908-9ce8-9366baa46404.m3u"},
 
 {"name":"LAS ESTRELLAS","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Canal_de_las_Estrellas_logo.svg/1200px-Canal_de_las_Estrellas_logo.svg.png",
 "url":"http://tvpremium.pro/live/Erick12345/Erick12345/e51984a3-b9a0-406d-83e1-eeed52c23ecc.m3u"},
@@ -32,110 +32,116 @@
 "url":"http://tvpremium.pro/live/Erick12345/Erick12345/039f938e-20b9-4a82-b1a4-b8c72c70df63.m3u"},
 
 {"name":"IMAGEN TV","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLAIjbviJ4bU-iD_WhabSEnfzZrz5L2ENGBAfJSjTxI8o7ePFzQzYv16M&s=10",
-"url":"http://fivetv.org:25461/GaboT/2023GT/186819"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/4454c320-aede-4655-94eb-0ff315e537dc.m3u"},
 
 {"name":"CANAL NUEVE","image":"https://www.pandaancha.mx/plds/articulos/froala/canal9logo-168x168-409953538.png",
-"url":"http://fivetv.org:25461/GaboT/2023GT/186812"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/fd2ffe8d-d6e7-4b22-85b9-d2acf617bfcd.m3u"},
 
 {"name":"TELEMUNDO","image":"http://descargas.podzone.net/logos/-telemundo.png",
 "url":"http://tvpremium.pro/live/Erick12345/Erick12345/6d786116-ca99-41cb-8947-ef25555c8066.m3u"},
 
 {"name":"CANAL ONCE","image":"https://www.contrareplica.mx/uploads/normal/fd04fbe0e16b3367fe090d478651b663.jpg",
-"url":"http://fivetv.org:25461/GaboT/2023GT/186813"}]},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/bc75126d-41f3-45b6-b6a7-fc8924a25094.m3u"}]},
 
 {"name": "CANALES WEB",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWrA8Qhd-Cja8D8u113ZYCPXlxy0ZBERJ1Fw&usqp=CAU", 
 "stations": [
 
-{"name":"ADN40","image":"https://i.postimg.cc/mrDCfvxt/adn40.png",
-"url":"https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?uid=1z72FLX69MASINfEckvx3IfGnQaL4iDT&sid=UT0gm8jjxi9NrV6by87qipVyWNCuQlml&pid=jytODsBC9kMIg8MRcwgC64OdYUQbzR3c&an=screen&at=web-app&av=v5.2.327&ref=https%3A%2F%2Flive.adn40.mx%2F&res=1522x658&without_cookies=false&listenerid=&dnt=true"},
-
 {"name":"AZTECA UNO","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/AZUNO.png",
-"url":"http://fivetv.org:25461/GaboT/2023GT/186817"},
+"url":"https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u"},
 
 {"name":"AZTECA 7","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/AZ7.png",
-"url":"http://tvpremium.pro/live/Erick12345/Erick12345/7eb68689-93bd-435c-8d75-a7125f6746c2.m3u"},
+"url":"https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u"},
 
-{"name":"LAS ESTRELLAS","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/ESTRELLAS-2hrs.png",
-"url":"http://fivetv.org:25461/GaboT/2023GT/110791"},
+{"name":"LAS ESTRELLAS","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/ESTRELLAS.png",
+"url":"http://tvpremium.pro/live/Erick12345/Erick12345/e51984a3-b9a0-406d-83e1-eeed52c23ecc.m3u"},
 
 {"name":"CANAL 5","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/caaanal5.png",
-"url":"http://fivetv.org:25461/GaboT/2023GT/186810"},
+"url":"https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u"},
+
+{"name":"ESTRELLA TV","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/caaanal5.png",
+"url":"https://estrellatv-oando.amagi.tv/playlist.m3u"},
+
+{"name":"ESTRELLA NEW","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/caaanal5.png",
+"url":"https://estrella-news-oando.amagi.tv/playlist.m3u"},
 
 {"name":"CINECANAL","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/CINEMA/cinecanal.png",
-"url":"http://fivetv.org:25461/GaboT/2023GT/186454"},
+"url":"http://tvpremium.pro/live/Erick12345/Erick12345/0851f0d5-2441-47c9-8cae-a7ab71132bed.m3u"},
 
 {"name":"CINEMAX","image":"https://logos.xbots.com.mx/3935.png",
-"url":"http://fivetv.org:25461/GaboT/2023GT/186452"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/68f8b4d7-41c6-4ac4-9af9-265d83586691.m3u"},
 
 {"name":"CLARO CINEMA","image":"https://i.postimg.cc/GmBdWK7b/claro-cinema.png",
-"url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/670536"},
+"url":"http://tvpremium.pro/live/Erick12345/Erick12345/aa16fb31-bebe-4246-811e-1a5540cd2d24.m3u"},
 
 {"name":"DE PELICULA","image":"https://www.lyngsat.com/logo/tv/dd/de-pelicula-mx.png",
-"url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/574442"},
+"url":"http://tvpremium.pro/live/Erick12345/Erick12345/072eb9dd-a60c-47ea-9f6a-77d2fef33628.m3u"},
 
-{"name":"FILMEX HD","image":"https://image.xumo.com/v1/channels/channel/99951120/600x600.webp?type=color_onBlack",
-"url":"http://fivetv.org:25461/GaboT/2023GT/173279"},
+{"name":"AZCINEMA","image":"https://image.xumo.com/v1/channels/channel/99951120/600x600.webp?type=color_onBlack",
+"url":"http://tvpremium.pro/live/Erick12345/Erick12345/9cb420c3-fad8-4a39-af69-34c2d0eaf825.m3u"},
 
-{"name":"FILMEX COMEDIA HD","image":"https://i.ibb.co/JkKpwmr/Filmex.png",
-"url":"http://fivetv.org:25461/GaboT/2023GT/173278"},
+{"name":"CINE FAMILIAR","image":"https://i.ibb.co/JkKpwmr/Filmex.png",
+"url":"http://tvpremium.pro/live/Erick12345/Erick12345/441641b1-3aa9-4910-97f4-fcb6b044b54e.m3u"},
 
-{"name":"FILMEX CLASICO HD","image":"https://image.xumo.com/v1/channels/channel/99951120/600x600.webp?type=color_onBlack",
-"url":"http://fivetv.org:25461/GaboT/2023GT/173277"},
+{"name":"SONY MOVIES","image":"https://image.xumo.com/v1/channels/channel/99951120/600x600.webp?type=color_onBlack",
+"url":"hhttp://tvpremium.pro/live/Erick12345/Erick12345/0108ca31-f714-4a3c-8b90-8e12beee456f.m3u"},
 
-{"name":"FILMEX ACCON HD","image":"https://png.pngtree.com/png-clipart/20230403/original/pngtree-mexico-vector-flag-png-image_9024188.png",
-"url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/670488"},
+{"name":"PARMOUNT","image":"https://png.pngtree.com/png-clipart/20230403/original/pngtree-mexico-vector-flag-png-image_9024188.png",
+"url":"http://tvpremium.pro/live/Erick12345/Erick12345/2dab0584-6cee-474d-8024-82c0d03d1130.m3u"},
 
 {"name":"GOLDEN PLUS","image":"https://i.ibb.co/x8x7LYX/GILDEN.png",
-"url":"http://fivetv.org:25461/GaboT/2023GT/189810"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/2f846c8b-18d0-46f6-8700-46571333c349.m3u"},
 
-{"name":"GOLDEN EDGE","image":"https://1.bp.blogspot.com/-a_dgujjjSt4/XatPMFS5hlI/AAAAAAAAAdQ/P_h_eb7MZV4sgYDwZ_0tNV2XDn3iFsn4QCLcBGAsYHQ/s200/48.png",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9659.m3u8"},
+{"name":"GOLDEN","image":"http://stalkertvlatinoplay.com/LOGOS/CINE/GOLDENEDGE.png",
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/dd1cf019-80c3-4479-ba6c-187c73da8323.m3u"},
 
-{"name":"HBO","image":"https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png",
-"url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/670613"},
+{"name":"GOLDEN EDGE","image":"http://stalkertvlatinoplay.com/LOGOS/CINE/GOLDENEDGE.png",
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/bd7b9ab4-f313-486a-a3ba-e8953002ceba.m3u"},
 
-{"name":"HBO 2","image":"http://tvlatino.club:2082/images/a7f9c898c812805f26c4ea1e490201da.png",
-"url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/670614"},
+{"name":"HBO","image":"http://stalkertvlatinoplay.com/LOGOS/CINE/HBO.png",
+"url":"http://tvpremium.pro/live/Erick12345/Erick12345/983a1eb0-f711-44ab-a302-5cba1a8a8823.m3u"},
 
-{"name":"HBO FAMILY","image":"http://tvlatino.club:2082/images/4362f9515924289e842af2dc213d5548.png",
-"url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/670615"},
+{"name":"HBO 2","image":"http://stalkertvlatinoplay.com/LOGOS/CINE/HBO.png",
+"url":"http://tvpremium.pro/live/Erick12345/Erick12345/00dc9694-a6f0-4f8b-b4b4-7906db7eb7da.m3u"},
 
-{"name":"HBO MUNDI","image":"https://1.bp.blogspot.com/-oN7wX127j3Q/Xw8lq7qqpSI/AAAAAAAAAWA/gTwoVU0sXXsbMIDKd7I6ojgR-28dars6ACLcBGAsYHQ/w200-h200/hbomundi.png",
-"url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/670618"},
+{"name":"HBO FAMILY","image":"http://stalkertvlatinoplay.com/LOGOS/CINE/HBO.png",
+"url":"http://tvpremium.pro/live/Erick12345/Erick12345/2d9a33af-556f-4512-90c1-3cb8c12613a3.m3u"},
 
-{"name":"HBO PLUS","image":"https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png",
-"url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/670616"},
+{"name":"HBO MUNDI","image":"http://miarea.vip:8080/images/ab81cb3e1f5f55ad886bde01dcde7724.png",
+"url":"http://tvpremium.pro/live/Erick12345/Erick12345/fcde7929-b156-45c6-86cc-39a311837b4c.m3u"},
 
-{"name":"HBO POP","image":"https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png",
-"url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/670619"},
+{"name":"HBO PLUS","image":"http://stalkertvlatinoplay.com/LOGOS/CINE/HBOPLUS.png",
+"url":"http://tvpremium.pro/live/Erick12345/Erick12345/1573ce33-9fef-4b46-a986-0c81a65d3fce.m3u"},
 
-{"name":"HBO PSIGNATURE","image":"https://1.bp.blogspot.com/-jsXerJmFHK0/Xas8qIXagZI/AAAAAAAAAaE/c3OP25KYkFUA2IGufDn-M7eyR0JPdSkXgCLcBGAsYHQ/s200/31.png",
-"url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/670617"},
+{"name":"HBO POP","image":"http://stalkertvlatinoplay.com/LOGOS/CINE/HBOPOP.png",
+"url":"http://tvpremium.pro/live/Erick12345/Erick12345/03b8ecca-8134-4173-80b6-839c7668dcbd.m3uu"},
 
-{"name":"HBO XTREME","image":"https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png",
-"url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/670620"},
+{"name":"HBO SIGNATURE","image":"http://miarea.vip:8080/images/d120fdf3444442524d11bb15a8a6e361.png",
+"url":"http://tvpremium.pro/live/Erick12345/Erick12345/46451726-5da7-4873-a2e0-217b264680ce.m3u"},
+
+{"name":"HBO XTREME","image":"https://i.ibb.co/bPRQG6P/hboext1.png",
+"url":"http://tvpremium.pro/live/Erick12345/Erick12345/b07c279b-2499-43b5-905f-b9d85e77f956.m3u"},
 
 {"name":"PARAMOUNT","image":"http://tvlatino.club:2082/images/3e48cca712d5060410a85a4135606ac8.png",
-"url":"http://fivetv.org:25461/GaboT/2023GT/188847"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/5e3c427c-ffbb-479e-a2ee-91616e0fbcc2.m3u"},
 
 {"name":"ULTRA CINE","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5UKufypGMZNEeBeEkvE38D07mQk9MCy_1w&usqp=CAU",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/17951.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/5513b758-5565-4641-8718-cb4d42f0fdcd.m3u 	"},
 
 {"name":"ULTRA CLASICO","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM-v7WBUmVSEJ9dvjO9578WEg3V38HZPZnCJD244aND00yenzZXfh8yg0&s=10",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/17952.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/faa2c76a-3e19-4565-9587-b26bb939e4e9.m3u"},
 
 {"name":"ULTRA FAMILIA","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbGY4kI1ovILMJjB2ePXb7Gb7REXPuQjEEil0RD4s5q94fjYyP4INh-vaR&s=10",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/17954.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/12a42a84-f0ef-45d2-a6ea-847036fa77ee.m3u"},
 
 {"name":"ULTRA KIDZ","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUYgICbZqegyZ_FtLlEzybwwiEjNsmF8fNxjEO0kFK0HsuvsFwI1amHMc&s=10",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/17956.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/c7a77e99-fee0-4969-8dc0-99732e5103b0.m3u"},
 
 {"name":"ULTRA MEXICO","image":"https://cc.org.mx/wp-content/uploads/2021/03/logo_ultra-mexico-570x570.png",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/17958.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/7ce09453-98ca-4721-9e60-d57c589687f3.m3u"},
 
 {"name":"SPACE","image":"http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/640px-SpaceLogo.svg.png",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9717.m3u8"}]},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/3c79668e-20db-4a7f-b0f5-f7fd744c2ecc.m3u"}]},
 
 {"name": "CULTURA & ENTRETENIMIENTO",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojFF6MH0Z5ifsQHWRwEGAicWPNM1GwYRZSpyY67fY08fTde59n8S4xcKl&s=10 ",
@@ -143,307 +149,233 @@
 "stations": [
 
 {"name":"ANIMAL PLANET", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuXZIMkXsuzfDaSnKC6CgHJdbtcHeQTh1qjS1sM4QIrQ&s", 
-"url":"https://ecuazona.live:8443/play/aoQaTqim_iM-YOsmPUioBP6nAKicEm3Y2i3-wTuWPzXOf1-Y0KBCd0hUzKgtBs6b/ts"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/ca9a9742-8992-4a46-a8f6-cd239401f5db.m3u"},
 
 {"name":"COMEDIA CENTRAL", "image":"http://descargas.podzone.net/logos/-comedy-central.png", 
-"url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/670630"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/9ed45805-48bd-409f-a57c-009a3228a01b.m3u"},
 
 {"name":"DISCOVERY CHANNEL", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBCMhRQlAbGsZdiZU2N5V-MIdx8eorGCU3bg&usqp=CAU", 
-"url":"https://ecuazona.live:8443/play/aoQaTqim_iM-YOsmPUioBL0tp7wdE6oeTd4zIcuqQN87KoeBoTRJGG3aG-vRSS3w/ts"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/a220caec-ce1d-4e96-b2df-b230af9622ab.m3u"},
 
 {"name":"DISCOVERY TURBO","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2UYF3YelMPGVrh056vcNhUpZln0pELkUydJh88iKUeg&s",
-"url":"http://fivetv.org:25461/GaboT/2023GT/186505"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/56215b64-28bc-4041-a27e-2b5c70123a87.m3u"},
 
 {"name":"DISTRITO COMEDIA","image":"http://descargas.podzone.net/logos/-distrito-comedia.png", 
-"url":"https://ecuazona.live:8443/play/aoQaTqim_iM-YOsmPUioBBE6LR3EJky98gp8KvCGv_Q6qwF5tGiDzPANtI9ul1C_/ts"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/e2cc1287-9af2-4ecc-b222-7562436098bf.m3u"},
 
 {"name":"E!", "image":"http://descargas.podzone.net/logos/-E!-entertainment.png", 
-"url":"https://ecuazona.live:8443/play/aoQaTqim_iM-YOsmPUioBI7vrxswPiNvaJ1KQ3ytwN9P9HEj4xB4DpjVcrbF3QpZ/ts"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/4a5329c9-fabd-42ce-b575-e5ac3fb0f5b8.m3u"},
 
 {"name":"HISTORY","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq9PqAOsM6V8WAQiJKwlTzEBJp6KD0nB-BNA&usqp=CAU", 
-"url":"https://ecuazona.live:8443/play/aoQaTqim_iM-YOsmPUioBLXTvO4F9c5j9k0ecimCssy67-yKd7SinE1ZPv7kf5zr/ts"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/af6d76c6-8a93-465c-b7d2-881bdffbe6d3.m3u"},
 
 {"name":"HISTORY 2","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG1F7NW-q1E1JtxtFr2xpbgTmQ_lrHI-IFPg&usqp=CAU", 
-"url":"https://ecuazona.live:8443/play/aoQaTqim_iM-YOsmPUioBCWIYalP9tnDieCvw10R78nYoUBUw463A2n5xxv7bV71/ts"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/f85f2620-bd8d-41a3-ac9a-2a009c5740a6.m3u"},
 
 {"name":"H&H","image":"https://i.pinimg.com/originals/6b/27/ae/6b27ae3d4938bf5775b656c19ff4fca6.png", 
-"url":"https://ecuazona.live:8443/play/aoQaTqim_iM-YOsmPUioBEep6urzEUrxcGZdhpC8IVjBk_MzcuafrT7j9Bz7tgsk/ts"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/d1e12fa2-fb8b-4ddd-aa24-ed2acd981424.m3u"},
 
 {"name":"HGTV","image":"http://live.iptvlatino.cc/stream_icons_mx/hgtv.png", 
-"url":"https://ecuazona.live:8443/play/aoQaTqim_iM-YOsmPUioBOOOUrutLaqRmEkOhoIbEtwxsAKd4A8x12EPxpV071nL/ts"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/e0dc723e-5a08-439f-b134-d6c7088eabe1.m3u"},
 
 {"name":"ID","image":"https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png", 
-"url":"https://ecuazona.live:8443/play/aoQaTqim_iM-YOsmPUioBHvrQhJHE9LMskFtFEFLfKcX6e3dM1sBNwpaNvUzFO1Z/ts"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/09eab684-72ba-4872-87d1-271cb90b8379.m3u"},
 
 {"name":"TLC","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEirV6VkRwVLZlwgze-uHWE0H52jCAtv9oDA&s", 
-"url":"https://ecuazona.live:8443/play/aoQaTqim_iM-YOsmPUioBIZUHDHStJ8g82tp1n2y8QdgwuvQ2-XqNtRFPtQJjp7U/ts"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/fce639d4-0654-4a9a-9825-b49b4355f087.m3u"},
 
 {"name":"NATGEO","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSb8VPwpuAYlLdvYfuIPhG96AMwz15GgoFraTRXEH23w&s",
-"url":"https://ecuazona.live:8443/play/aoQaTqim_iM-YOsmPUioBDNqxazuq6T6yLO7FPSM1GNuksqu01XT2r5UeUNp3_7m/ts"}]},
+"url":"http://fivetv.org:25461/GaboT/2023GT/186512"}]},
 
 {"name": "DEPORTES",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMrolwfypxQd0lXs7Nx-kVfN9Ee18C0EbbrzdxAboDyQ&s", 
 "stations": [
 
 {"name":"AZTECA DEPORTES","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-q76RnjB6u3hq7YLGWwInuyNLWZQU1bBlspIgX_0ABOX--FV-pe7n7c&s=10",
-"url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/670494"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/114f0c24-746c-476c-98d5-1d6057407805.m3u"},
 
 {"name":"ESPN 1","image":"https://i.postimg.cc/KvFR3FLr/espn.png",
-"url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/670592"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/b37084c1-6792-4cc4-8e7c-95457c317fab.m3u"},
 
 {"name":"ESPN 2","image":"https://i.postimg.cc/v82q167s/ESPN2.png",
-"url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/670598"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/5a2a6e90-1b3c-4ff7-9f55-1faeb8125282.m3u"},
 
 {"name":"ESPN 3","image":"https://i.postimg.cc/y8DMj3Cm/espn3.png",
 "url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9535.m3u8"},
 
-{"name":"ESPN 4 LAT","image":"https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9537.m3u8"},
-
 {"name":"ESPN DEPORTES","image":"https://1.bp.blogspot.com/-W6E6ZYNxtIg/Xay_ajYDpiI/AAAAAAAAAkg/49gGaM98NZ0m67_qvZeiy1kWIsGAhH0xACLcBGAsYHQ/s200/8.png",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9548.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/84fab440-d4b1-4281-8d3a-c2a7f04ae0b8.m3u"},
 
 {"name":"FOX SPORT 1","image":"https://i.postimg.cc/W1hpgyH4/fox1.png",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9579.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/e7d2519b-4780-4510-8f95-6c697aff1b92.m3u"},
 
 {"name":"FOX SPORT 2","image":"https://i.postimg.cc/d01285jt/fox2.png",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9584.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/9dec570d-47fa-4f12-96fc-876b3a26e861.m3u"},
 
 {"name":"FOX SPORT 3","image":"https://i.postimg.cc/bv5qJvvN/fox3.png",
-"url":"https://ecuazona.live:8443/play/aoQaTqim_iM-YOsmPUioBBkAfg_tP4efDwxEk1Qz49NaS8DPaKkNLxCrz3sxe8d4/ts"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/ebfb80c9-61df-406d-9df2-955fb48677f1.m3u"},
 
 {"name":"FOX DEPORTES","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Sq2aA1FRpvghlub4PEPNnkfKEMU92Ber8w&s",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9571.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/b1b784fb-d201-4b2a-a691-700c0a330491.m3u"},
 
 {"name":"FOX PREMIUM","image":"http://live.iptvlatino.cc/stream_icons_mx/fox_sports_premium_mx.png",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9593.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/d591025f-5018-4dd1-8c73-dccc7781dd8d.m3u"},
 
 {"name":"TUDN USA","image":"http://live.iptvlatino.cc/stream_icons_mx/tudn_usa.png",
-"url":"https://ecuazona.live:8443/play/aoQaTqim_iM-YOsmPUioBKOZoMKOCWeeFIITmqqxd7EXJyJd0nznMVQWM-TWOsYd/ts"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/bf3af763-0fbe-4e6a-917e-03e9d292ddeb.m3u"},
 
 {"name":"TUDN","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTItR5lqJvOx7cabASwxWCjnonRlctR18GkZRt-iL292yvFKHoaByLDUl0&s=10",
-"url":"https://ecuazona.live:8443/play/aoQaTqim_iM-YOsmPUioBAbIhq6M0F_aRZ-KIM6QmId_8K5e7_2cCyfETyYQ08v_/ts"}]},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/d622296e-125c-4e2a-a021-03a4f2994f7f.m3u"}]},
 
-{"name": "CINE & SERIES 24/7",
-"image": "https://lonewolftvpr.com/logos/247.png", 
-"stations": [
-
-{"name":"CINE DC UNIVERSAL","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc5zZlk2knZaWQxMafc0OQp5ENt1Y-bzlrZBHBlHzTreXXbUvMWCKD6L5E_aYMsbwkb4Q&usqp=CAU",
-"url":"http://tvlatino.club:2082/SWtLr9SLMKR4/vTQGu4XQwWq5/405835"},
-
-{"name":"CINE AMAZON PRIME","image":"https://img.icons8.com/color/512/amazon-prime-video.png",
-"url":"http://tvlatino.club:2082/SWtLr9SLMKR4/vTQGu4XQwWq5/405854"},
-
-{"name":"CINE DISNEY+","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWGIMOQiht9DWpqpVPuKJocD6EoOoZbNlV3eG8HxTMRKt0FizzvSacmEQ&s=10",
-"url":"http://tvlatino.club:2082/SWtLr9SLMKR4/vTQGu4XQwWq5/405855"},
-
-{"name":"CINE DISNEY FAMILY","image":"https://i.pinimg.com/564x/85/28/a7/8528a75f13fbf7c4482ac68007abfd8e.jpg",
-"url":"https://nxt.plus:8443/Aurora23/128704/214277"},
-
-{"name":"CINE AVENTURA","image":"http://legendstv.com.mx:80/images/yvMgUih4ku_a9WNA8H48OaXI9B4RJAfnKkaVA5qGi0rHvc_GdDoaTGPcjbNAHSK7T4cvOuNRM8lXDoRy1eIavYnyw9ri8-ZqtORO5jRJWcX40YJbAcnIOPDkCZ1zFFuH.png",
-"url":"http://sdmx.vip:80/yestv/eVW6aPPbUCD8/2385205"},
-
-{"name":"CINE FAMILIAR","image":"http://legendstv.com.mx:80/images/yvMgUih4ku_a9WNA8H48OaXI9B4RJAfnKkaVA5qGi0rHvc_GdDoaTGPcjbNAHSK7T4cvOuNRM8lXDoRy1eIavYnyw9ri8-ZqtORO5jRJWcX40YJbAcnIOPDkCZ1zFFuH.png",
-"url":"http://sdmx.vip:80/yestv/eVW6aPPbUCD8/2385212"},
-
-{"name":"CINE ACCION","image":"http://legendstv.com.mx:80/images/0b6jRnG6S1KpCBMw48z8YhUphCGFRqmvrH8ZkMqJcD2unp36b52g8ZlnOqahgZGIWCGDdqVU15k-Ku3_kmG74A.png",
-"url":"http://sdmx.vip:80/yestv/eVW6aPPbUCD8/2385225"},
-
-{"name":"CINE TERROR","image":"http://legendstv.com.mx:80/images/yvMgUih4ku_a9WNA8H48OaXI9B4RJAfnKkaVA5qGi0rHvc_GdDoaTGPcjbNAHSK7T4cvOuNRM8lXDoRy1eIavYnyw9ri8-ZqtORO5jRJWcX40YJbAcnIOPDkCZ1zFFuH.png",
-"url":"http://sdmx.vip:80/yestv/eVW6aPPbUCD8/2385216"},
-
-{"name":"CANTINFLAS","image":"http://legendstv.com.mx:80/images/96qZ3gQY5agMKP3CEtIHfULNhaz73CkaABQxunIFM8VLL6OizyfpvAc71ULgikSxgcBXgFVrCZ97lEBzuaresg.png",
-"url":"http://sdmx.vip:80/yestv/eVW6aPPbUCD8/2385231"},
-
-{"name":"CANTINFLAS OPC 2","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnvNIXeA_uuGc-jvcYa6nFT0KEBQ1rmiPaOA&usqp=CAU",
-"url":"http://newultra.xyz:8080/53633272/VqBWDBeKcDNp/771"},
-
-{"name":"CHESPIRITO","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0SyKQ4U5wxPNSlkDn26ahsOjnleYN_6wEwPn_YJ3ioZV6JfmhlPREHzo&s",
-"url":"https://nxt.plus:8443/Aurora23/128704/91927"},
-
-{"name":"CHESPIRITO OPC2","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0SyKQ4U5wxPNSlkDn26ahsOjnleYN_6wEwPn_YJ3ioZV6JfmhlPREHzo&s",
-"url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/744939729"},
-
-{"name":"EL CHAVO DEL 8","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP7Spsz3XZOtVoiEdObxERQ7al-DCyje-lfEbatrxsOA&s",
-"url":"http://newultra.xyz:8080/53633272/VqBWDBeKcDNp/705"},
-
-{"name":"EL CHAVO DEL 8 OPC2","image":"https://m.media-amazon.com/images/M/MV5BOTQ1YWY3YzctMzUwYS00NWUwLWI2ZDktNjcxNWFiMWY3OTU5XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_.jpg",
-"url":"http://redcoltelevision.info:25461/DIANAPAR2024/kWTSNRrMDDv2/246256"},
-
-{"name":"EL CHAPULIN COLORADO","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqdAjpf6gcw-j5g1eLHpzMzZneDSZR6ae8v9r1aYsq4w&s",
-"url":"http://newultra.xyz:8080/53633272/VqBWDBeKcDNp/704"},
-
-{"name":"EL CHAPULIN COLORADO OPC2","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqdAjpf6gcw-j5g1eLHpzMzZneDSZR6ae8v9r1aYsq4w&s",
-"url":"http://redcoltelevision.info:25461/DIANAPAR2024/kWTSNRrMDDv2/246254"},
-
-{"name":"LOS SIMPSON","image":"https://i.ibb.co/YDLfZDg/Scale-width-1200-aspect-Ratio-1.webp",
-"url":"https://nxt.plus:8443/Aurora23/128704/238717"},
-
-{"name":"LOS SIMPSON OPC2","image":"https://i.ibb.co/YDLfZDg/Scale-width-1200-aspect-Ratio-1.webp",
-"url":"http://tvlatino.club:2082/Iptvwinkadic0202/ZkhG7CusdDXL/513330"},
-
-{"name":"LA ROSA DE GUADALUPE","image":"http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLN1z54EE9jn1hx7iJ8d9nGDN5_FMUuyg4MR1NzupX0eM.jpg",
-"url":"https://ecuazona.live:8443/play/aoQaTqim_iM-YOsmPUioBDLvJ6h3z253VF_kR6Qb-e-dcUYn8v7OmkhtHOSILosP/ts"},
-
-{"name":"LA ROSA DE GUADALUPE  OPC2","image":"http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLN1z54EE9jn1hx7iJ8d9nGDN5_FMUuyg4MR1NzupX0eM.jpg",
-"url":"http://sdmx.vip:80/yestv/eVW6aPPbUCD8/2384935"},
-
-{"name":"CINE ARTES MARCIALES","image":"http://legendstv.com.mx:80/images/0b6jRnG6S1KpCBMw48z8YhUphCGFRqmvrH8ZkMqJcD38Sb3KpPVWInirG9iKnXrtKphd0NvAAAgxL-1DiPXZoA.png",
-"url":"http://sdmx.vip:80/yestv/eVW6aPPbUCD8/2385228"},
-
-{"name":"CINE MISTERIO","image":"http://legendstv.com.mx:80/images/yvMgUih4ku_a9WNA8H48OaXI9B4RJAfnKkaVA5qGi0rHvc_GdDoaTGPcjbNAHSK7T4cvOuNRM8lXDoRy1eIavYnyw9ri8-ZqtORO5jRJWcX40YJbAcnIOPDkCZ1zFFuH.png",
-"url":"http://sdmx.vip:80/yestv/eVW6aPPbUCD8/2385218"}]},
 
 {"name": "CINE & SERIES",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGeff5YnuBi74wo5GfXY87UfNN7g6b0yDVcw&usqp=CAU", 
 "stations": [
 
 {"name":"A&E","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR2qP7YGQzB9UMyx0aLqT_rNc5GUfgOM0-tJSNMEWg1-uZHL7Ktmvf4QWH&s=10",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9616.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/9a1b58a2-ecb8-4549-8e81-bf5d1bb31f7b.m3u"},
 
 {"name":"AMC","image":"https://i.ibb.co/m8Txm1X/AMCHD.jpg ",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9620.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/f215eadc-94d2-449e-870e-579f577b9682.m3u"},
 
 {"name":"AXN","image":"https://i.ibb.co/NZ66vJS/AXNHD.jpg",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9622.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/f65585ba-3086-4179-be14-00deb9a9150d.m3u"},
 
 {"name":"CINECANAL","image":"https://i.ibb.co/S0h94pk/CINECANAL.jpg",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9630.m3u8"},
-
-{"name":"CINEMA","image":"http://lonewolftvpr.com/logos/Azcinema.png",
-"url":"http://latinchannel.tv:8080/gildarut2/ewk9iycd/74"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/09e1cdc8-6c80-43e4-b99a-38d0df495642.m3u"},
 
 {"name":"CINEMAX","image":"https://i.ibb.co/xjsQJ2P/CINEMAX.jpg ",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9633.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/73e83e63-ec9b-4ab7-94b8-c1df91b4a3d3.m3u"},
 
 {"name":"CINE LATINO","image":"http://descargas.podzone.net/logos/-cine-latino.png",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9626.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/8270ce15-41aa-473b-9a59-e33ecf3f22a6.m3u"},
 
 {"name":"CLARO CINEMA","image":"http://descargas.podzone.net/logos/-claro-cinema.png",
 "url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/670536"},
 
 {"name":"DE PELICULA","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbj0HO_DN-HYRmel2PzuWTxxu-_6WOxNwTCWKrdwfsjg&s",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9638.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/875d8083-5bee-4c35-a398-2f624121bc86.m3u"},
 
 {"name":"DE PEL CLASICO","image":"https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9641.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/ac28f49f-4485-4ca2-b2fa-aff9fb5cb2f5.m3u"},
 
 {"name":"DE PELICULA PLUS","image":"https://i.ibb.co/y07LGs1/DEPELICULA.jpg",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9640.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/072eb9dd-a60c-47ea-9f6a-77d2fef33628.m3u"},
 
 {"name":"EUROPA EUROPA","image":"https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9648.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/7bbda4aa-bc8b-4ea5-908c-1003fe9b2252.m3u"},
 
 {"name":"DHE","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/CINEMA/DHE.png",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9643.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/dd6ce060-2df7-4c35-a12a-8fab8dd4c32f.m3u"},
 
 {"name":"FX","image":"https://i.ibb.co/hs5pPQB/FXHD.jpg ",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9653.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/3b350d6f-dcee-4d2d-b759-0289f878aa23.m3u"},
 
 {"name":"GOLDEN","image":"https://i.ibb.co/TP1rVyx/GOLDEN.jpg",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9656.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/dd1cf019-80c3-4479-ba6c-187c73da8323.m3u"},
 
 {"name":"GOLDEN EDGE","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTI2f9I29YNZiVst2MUniGRKkjMYo8b6N7oqxCs85m8dEbFrI9oPJm1No&s=10 ",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9658.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/bd7b9ab4-f313-486a-a3ba-e8953002ceba.m3u"},
 
 {"name":"GOLDEN PLUS","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfPAfYQMBjlLveOOYfg-4RSj7VSTmctWclQ&usqp=CAU",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9661.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/2f846c8b-18d0-46f6-8700-46571333c349.m3u"},
 
 {"name":"GOLDEN PREMIER","image":"https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9664.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/08093827-11ff-4fa6-b0e9-2cae0bf0362a.m3u"},
 
 {"name":"GOLDEN PREMIER 2","image":"https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png",
 "url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9665.m3u8"},
 
 {"name":"HBO","image":"https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9668.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/06fe4767-6361-4a17-a771-61fe39be0777.m3u"},
 
 {"name":"HBO 2","image":"https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9672.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/45664cb2-10b4-4a57-8c58-9699c8092b36.m3u"},
 
 {"name":"HBO FAMILY","image":"https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9676.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/83e04ef0-3a4b-4d79-8e68-450171373396.m3u"},
 
 {"name":"HBO MUNDI","image":"https://1.bp.blogspot.com/-oN7wX127j3Q/Xw8lq7qqpSI/AAAAAAAAAWA/gTwoVU0sXXsbMIDKd7I6ojgR-28dars6ACLcBGAsYHQ/w200-h200/hbomundi.png",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9684.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/30dfb9c7-978f-42d2-ab6f-1a8b84131c7e.m3u"},
 
 {"name":"HBO PLUS","image":"https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png",
-"url":"http://fivetv.org:25461/GaboT/2023GT/186498"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/15099ab7-1a2c-41aa-bd4d-3801a78cbe42.m3u"},
 
 {"name":"HBO POP","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNxyVRrvlZVh7LVk4OaHC6ytW0e1Bm5JuOpQ&s",
-"url":"https://ecuazona.live:8443/play/aoQaTqim_iM-YOsmPUioBKNfUPzhkJDTDlx2q1ezC5rV4Q4d2kkJ6zNJ2fiHGT6L/ts"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/9fe490b3-9b51-4bba-aca3-cc05a70a03ce.m3u"},
 
 {"name":"HBO SIGNATURE","image":"https://1.bp.blogspot.com/-U60Pby9cnqI/Xw8ovhvpzuI/AAAAAAAAAWY/iU_CaOeTilQPEcKEGo7-rJ0MbA_sDb8SgCLcBGAsYHQ/w200-h200/SIGNATURE.png",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9695.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/7b64c761-1151-4dae-918e-b9b4d523d66e.m3u"},
 
 {"name":"HBO XTREME","image":"https://i.ibb.co/bPRQG6P/hboext1.png",
-"url":"http://fivetv.org:25461/GaboT/2023GT/186493"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/78ce4429-121f-4e82-b417-998e24fc0efd.m3u"},
 
 {"name":"PANICO","image":"http://live.iptvlatino.cc/stream_icons_mx/panico.png",
 "url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9704.m3u8"},
 
 {"name":"PARAMOUNT","image":"http://live.iptvlatino.cc/stream_icons_mx/paramount.png",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9705.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/44e3dfb0-ab2f-4c00-bb2f-b35f8dfc1529.m3u"},
 
 {"name":"SONY CINE","image":"http://live.iptvlatino.cc/stream_icons_mx/sony_cine.png",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9713.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/23f5aa80-e3d7-4b54-a7b1-30d1f96c5153.m3u"},
 
 {"name":"SPACE","image":"https://i.ibb.co/VmrGxxp/SPACE.jpg ",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9717.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/5d351c34-36da-4ccc-83b5-492d0bf5765a.m3u"},
 
 {"name":"STAR CHANNEL","image":"https://i.ibb.co/WyL4txb/STARCHANEL.jpg",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9721.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/8116a53a-ce24-46a2-b206-1fefbd2e0aef.m3u"},
 
 {"name":"STUDIO UNIVERSAL","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtC8w1c9rQCVkCSGe9bL_ZoMSyk5Qcq-UQjNlRmX3SQF04yOPnZaInwzX3&s=10 ",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9733.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/73124bc5-35b0-41c8-8b05-e029ae831fae.m3u"},
 
 {"name":"TNT","image":"https://i.ibb.co/0q21c8Q/TNT.jpg",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9744.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/60abb179-e602-4e54-8f32-83ad4c05f8f2.m3u"},
 
 {"name":"TNT SERIES","image":"https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9749.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/ddc68ff1-aa94-49dc-925b-245964f83b9a.m3u"},
 
 {"name":"UNIVERSAL","image": "https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg",
-"url": "http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9754.m3u8"},
+"url": "http://tvpremium.pro:8080/live/Erick12345/Erick12345/3c6b6bba-71d8-4803-bcc7-7306f3f2e718.m3u"},
 
 {"name":"UNIVERSAL CINEMA","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6dCXFrnwmA9UVhQZ4z8_kLxRvi_rlmq458w&usqp=CAU",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9757.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/86bc4fa2-6b79-4f91-b3ad-1c60f8b2dfbb.m3u"},
 
 {"name":"UNIVERSAL COMEDY","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFmvrkrQoWzYY7G6atlwym03ZkYyNkSPftZg&usqp=CAU",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9728.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/a7d7675f-f669-4924-b960-44c696b30868.m3u"},
 
 {"name":"UNIVERSAL CRIME","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNYPWcXOzk9hbMjDMRHvWa8dtjtBRGyokigQ&usqp=CAU",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9763.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/2d316321-79e2-4423-b9f7-19818c40110e.m3u"},
 
 {"name":"UNIVERSAL PREMIER","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNlp6GoK3BOhBk2iAcUl8tNCHmckNRsha8KQ&usqp=CAU",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9765.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/306d7826-7606-49d9-b28c-cd30b7032786.m3u"},
 
 {"name":"STARZ CINEMA HD","image":"https://static.epg.best/us/StarzCinema.us.png",
-"url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/418071"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/ae618fa5-72d7-4d20-bc74-2e67d72444b2.m3u"},
 
 {"name":"STARZ COMEDY","image":"https://static.epg.best/us/StarzComedy.us.png",
-"url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/418072"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/0e21f388-8d98-4940-b6f5-0dab7cd2aadf.m3u"},
 
 {"name":"STARZ","image":"https://static.epg.best/us/StarzCinema.us.png",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9727.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/a5dd1c07-37a0-4f3e-882a-eaa35f2a77a2.m3u"},
 
 {"name":"STARZ ENCORE CLASSICS","image":"https://static.epg.best/us/StarzEncoreClassics.us.png",
-"url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/418049"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/fa0d037e-27f6-4154-93c7-046b2a52ea4b.m3u"},
 
 {"name":"STARZ ENCORE SUSP HD","image":"https://static.epg.best/us/StarzEncoreSuspense.us.png",
-"url":"https://ecuazona.live:8443/play/aoQaTqim_iM-YOsmPUioBA-RLJMiLNc2QYyZxo4ih8A68TM5iKYpIaKrNhWBqfXs/ts"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/1e352f73-8f82-4244-adbd-8447c7e18b87.m3u"},
 
 {"name":"STARZ ENCORE","image":"https://static.epg.best/us/StarzEdge.us.png",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9729.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/59cd8757-50df-4994-85d5-9d24fa8d49d2.m3u"},
 
 {"name":"STARZ EPIX HITS","image":"http://live.iptvlatino.cc/stream_icons_mx/epix_hits.png",
 "url":"http://tvpremium.pro/live/Erick12345/Erick12345/c9688675-2e23-480c-8f57-d28a8c26bb3b.m3u"},
 
 {"name":"STARZ ENCORE FAMILY","image":"https://static.epg.best/us/StarzEncoreFamily.us.png",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9731.m3u8"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/5ada7e68-56e8-49d6-98b1-d074bda21c0a.m3u"},
 
 {"name":"STARZ ENCORE WESTERS","image":"https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png",
-"url":"http://globalstreamz.xyz:3050/AlisonMerto/dqcWGwBkWi/419305"},
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/e65f7088-a472-443b-bd7b-6cbfcac61681.m3u"},
 
 {"name":"WARNER","image":"https://i.ibb.co/vJrZD2P/WARNERCHANNEL.jpg  ",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9777.m3u8"}]}]}]}{"name": "REPLEY TV",
+"url":"http://tvpremium.pro:8080/live/Erick12345/Erick12345/65eca945-cca6-4c6b-a33b-e26c86b787cc.m3u"}]}]}]}{"name": "REPLAY TV",
+
