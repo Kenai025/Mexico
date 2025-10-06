@@ -60,10 +60,7 @@
 "url":"https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u"},
 
 {"name":"ESTRELLA TV","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/caaanal5.png",
-"url":"https://estrellatv-oando.amagi.tv/playlist.m3u"},
-
-{"name":"ESTRELLA NEW","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/caaanal5.png",
-"url":"https://estrella-news-oando.amagi.tv/playlist.m3u"},
+"url":"hhttp://tvpremium.pro:8080/live/Erick12345/Erick12345/2712693d-03e9-4b2f-90ab-b7f74ecc4c36.m3u"},
 
 {"name":"CINECANAL","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/CINEMA/cinecanal.png",
 "url":"http://tvpremium.pro/live/Erick12345/Erick12345/0851f0d5-2441-47c9-8cae-a7ab71132bed.m3u"},
